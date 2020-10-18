@@ -31,7 +31,7 @@ Kurs składa się z trzech zasadniczych części:
 
 Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w domu oraz na podstawie eseju dotyczącego interfejsów mózg komputer.
 
-
+.
 
 
 
