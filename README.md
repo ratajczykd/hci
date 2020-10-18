@@ -31,8 +31,6 @@ Kurs składa się z trzech zasadniczych części:
 
 Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w domu oraz na podstawie eseju dotyczącego interfejsów mózg komputer.
 
-.
-
 
 
 
@@ -76,4 +74,4 @@ Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót
 | niedostateczny (2,0)   | < 18   |
 
 
-
+.
