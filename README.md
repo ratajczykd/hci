@@ -34,8 +34,6 @@ Oceny wystawiane są na podstawie zadań wykonywanych w trakcie zajęć lub w do
 
 
 
-
-
  **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie nieobecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
 ### Terminarz zajęć
@@ -76,4 +74,4 @@ Konferencja Neuralinku 2020: https://www.youtube.com/watch?v=DVvmgjBL74w (Skrót
 | niedostateczny (2,0)   | < 18   |
 
 
-
+.
