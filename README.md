@@ -25,8 +25,8 @@ jupyter notebook
 
 Kurs składa się z trzech części:
  1. Analiza biosygnałów
- 2. Elementy Computer Science
- 3. Tworzenie stron internetowych
+ 2. Tworzenie stron internetowych
+ 3. Elementy Computer Science
 
 
 Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub w domu oraz na podstawie **projektu** dotyczącego interfejsów mózg komputer.
