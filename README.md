@@ -49,7 +49,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |8.|	Zbieranie danych do projektu	| 24.11/6.12.22 |	-	|	-	|
 |9.|	HTML 	| 1/13.12.22 |	-	|	-	|
 |10.|	CSS	| 8/20.12.22 |	Praca domowa	|	3	|
-|11.|	Liczby binarne	| 15.12/3.01.23 |	Praca domowa	|	2	|
+|11.|	Liczby binarne	| 22.12/3.01.23 |	Praca domowa	|	2	|
 |12.|	Bramki logiczne	| 5/10.01.23 |	Praca domowa	|	2	|
 |13.|	VR	| 12/17.01.23 |	Praca domowa	|	2	|
 |14.|	Dodatkowe	| 19/24.01.23 |	-	|	-	|
@@ -62,7 +62,15 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 
 
 ### Projekt
-Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu. W ramach projektu wymagane jest przygotowanie kodu wyświatlającego litery alfabetu, zebranie sygnału, przeanalizowanie zebranych danych (odszyfrowanie wybranych liter) oraz przygotowania raportu. 
+Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu. Projekt realizuje się w grupach 2-osobowych. 
+
+W ramach projektu wymagane jest:
+(1) przygotowanie programu wyswietlającego litery alfabetu, 
+(2) zebranie danych osoby, która przy pomocy mrugania sygnalizuje wybór danej litery (powinna zapisać w ten sposób jakiegoś słowo), 
+(3) przygotowanie kodu, który odszyfrowuje wybrane litery, oraz 
+(4) przygotowanie raportu z projektu. 
+
+
 
 ### Punktacja projektu
 * Interfejs graficzny -- 2pkt
