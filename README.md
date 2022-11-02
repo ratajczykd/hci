@@ -65,9 +65,9 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu. Projekt realizuje się w grupach 2-osobowych. 
 
 W ramach projektu wymagane jest:
-(1) przygotowanie programu wyswietlającego litery alfabetu, 
-(2) zebranie danych osoby, która przy pomocy mrugania sygnalizuje wybór danej litery (powinna zapisać w ten sposób jakiegoś słowo), 
-(3) przygotowanie kodu, który odszyfrowuje wybrane litery, oraz 
+(1) przygotowanie programu wyswietlającego litery alfabetu, \
+(2) zebranie danych osoby, która przy pomocy mrugania sygnalizuje wybór danej litery (powinna zapisać w ten sposób jakiegoś słowo), \
+(3) przygotowanie kodu, który odszyfrowuje wybrane litery, oraz \
 (4) przygotowanie raportu z projektu. 
 
 
