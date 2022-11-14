@@ -44,15 +44,15 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |3.|	Analiza sygnałów 1	| 20/25.10.22 |	Arkusz z zajęć	|	2	|
 |4.|	Analiza sygnałów 2	| 27.10/8.11.22 |	Praca domowa	|	2	|
 |5.|	Wykrywanie sygnału EEG | 3/15.11.22	|	Arkusz z zajęć	|	2	|
-|6.|	Potencjały wywołane	| 10/22.11.22 |	Arkusz z zajęć	|	2	|
-|7.| Wykrywanie mrugnięć | 17/29.11.22 | - | - |
-|8.|	Zbieranie danych do projektu	| 24.11/6.12.22 |	-	|	-	|
-|9.|	HTML 	| 1/13.12.22 |	-	|	-	|
-|10.|	CSS	| 8/20.12.22 |	Praca domowa	|	3	|
-|11.|	Liczby binarne	| 22.12/3.01.23 |	Praca domowa	|	2	|
-|12.|	Bramki logiczne	| 5/10.01.23 |	Praca domowa	|	2	|
-|13.|	VR	| 12/17.01.23 |	Praca domowa	|	2	|
-|14.|	Dodatkowe	| 19/24.01.23 |	-	|	-	|
+|6.|	Potencjały wywołane	| 17/22.11.22 |	Arkusz z zajęć	|	2	|
+|7.| Wykrywanie mrugnięć | 24/29.11.22 | - | - |
+|8.|	Zbieranie danych do projektu	| 1/6.12.22 |	-	|	-	|
+|9.|	HTML 	| 8/13.12.22 |	-	|	-	|
+|10.|	CSS	| 22/20.12.22 |	Praca domowa	|	3	|
+|11.|	Liczby binarne	| 5/3.01.23 |	Praca domowa	|	2	|
+|12.|	Bramki logiczne	| 12/10.01.23 |	Praca domowa	|	2	|
+|13.|	VR	| 19/17.01.23 |	Praca domowa	|	2	|
+|14.|	Dodatkowe	| 26/24.01.23 |	-	|	-	|
 |   |	  |  	| Projekt | 10 |
 |  	|	  |  	| **Suma** | **30** |
 
