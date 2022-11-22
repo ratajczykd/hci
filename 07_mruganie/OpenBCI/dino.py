@@ -6,7 +6,7 @@ import datetime
 import time
 from pyOpenBCI import OpenBCIGanglion
 import multiprocessing as mp
-from psychopy import event, visual
+#from psychopy import event, visual
 import filterlib as flt
 import blink as blk
 
