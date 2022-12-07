@@ -190,7 +190,7 @@ Analogicznie dla nagłółków:
 `<th colspan="x">nagłówek kolumny</th>`
 gdzie x oznacza liczbę komórek, które mają zostać połączone
 
-   ###   Zadanie <img src=\"../images/pencil.png\" width=\"20\" align=\"left\">
+   ###   Zadanie <img src="../images/pencil.png" width="20" align="left">
    
    <img src=\"../images/tabela1.png\"  align=\"left\">
 
