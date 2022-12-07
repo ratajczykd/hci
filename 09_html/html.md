@@ -190,11 +190,11 @@ Analogicznie dla nagłółków:
 `<th colspan="x">nagłówek kolumny</th>`
 gdzie x oznacza liczbę komórek, które mają zostać połączone
 
-   ###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+   ###   Zadanie ![](../images/pencil.png)
    
    Stwórz tabelę zgodną z poniższą. Do wyświetlenia obrysu możesz użyć artybutu tabeli `border="1"`.\
    
-   <img src="../images/tabela1.png"  align="left">\ <br/>
+   ![](../images/tabela1.png)
 
 ### Listy/wykazy
 
@@ -226,11 +226,11 @@ Przykład:
 </ul>
 ```
 
-###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+###   Zadanie ![](../images/pencil.png)
    
-   Stwórz listę zgodną z poniższą.\ 
+   Stwórz listę zgodną z poniższą. 
    
-   <img src="../images/lista1.png"  align="left">\ <br/>
+   ![](../images/lista1.png)
    
 ## Formularze
 
