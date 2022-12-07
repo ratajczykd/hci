@@ -192,7 +192,9 @@ gdzie x oznacza liczbę komórek, które mają zostać połączone
 
    ###   Zadanie <img src="../images/pencil.png" width="20" align="left">
    
-   <img src=\"../images/tabela1.png\"  align=\"left\">
+   Stwórz tabelę zgodną z poniższą. Do wyświetlenia obrysu możesz użyć artybutu tabeli `border="1"`.
+   
+   <img src="../images/tabela1.png"  align="left">
 
 ### Listy/wykazy
 
