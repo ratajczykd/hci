@@ -194,7 +194,7 @@ gdzie x oznacza liczbę komórek, które mają zostać połączone
    
    Stwórz tabelę zgodną z poniższą. Do wyświetlenia obrysu możesz użyć artybutu tabeli `border="1"`.
    
-   <img src="../images/tabela1.png"  align="left">
+   <img src="../images/tabela1.png"  align="left"> \
 
 ### Listy/wykazy
 
@@ -226,7 +226,12 @@ Przykład:
 </ul>
 ```
 
-
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+   
+   Stwórz listę zgodną z poniższą. 
+   
+   <img src="../images/lista1.png"  align="left"> \
+   
 ## Formularze
 
 Formularze służą do pobierania danych od użytkowników odwiedzających naszą stronę internetową.
