@@ -186,7 +186,7 @@ gdzie x oznacza liczbę komórek, które mają zostać połączone
 Łączenie komórek tabeli w poziomie:
 `<td colspan="x">treść</td>`
 
-Analogicznie dla nagłółków:
+Analogicznie dla nagłówków:
 `<th colspan="x">nagłówek kolumny</th>`
 gdzie x oznacza liczbę komórek, które mają zostać połączone
 
