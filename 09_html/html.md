@@ -299,6 +299,13 @@ Innym rodzajem pola wyboru, który możemy zastosować to checkboxy. Na przykła
 
 Na przykład dla `<form action="/action_page.php">` dane zostaną wysłane do podstrony **action_page.php**.
 
+   
+   
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+   
+   Stwórz formularz zgodny z poniższym. 
+   
+   ![](../images/checkboxs.png)
 
 ## Pomoce naukowe
 Samouczek: http://www.w3schools.com/html
