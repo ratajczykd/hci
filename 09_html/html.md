@@ -186,10 +186,15 @@ gdzie x oznacza liczbę komórek, które mają zostać połączone
 Łączenie komórek tabeli w poziomie:
 `<td colspan="x">treść</td>`
 
-Analogicznie dla nagłółków:
+Analogicznie dla nagłówków:
 `<th colspan="x">nagłówek kolumny</th>`
 gdzie x oznacza liczbę komórek, które mają zostać połączone
 
+   ###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+   
+   Stwórz tabelę zgodną z poniższą. Do wyświetlenia obrysu możesz użyć artybutu tabeli `border="1"`.\
+   
+   ![](../images/tabela1.png)
 
 ### Listy/wykazy
 
@@ -221,7 +226,12 @@ Przykład:
 </ul>
 ```
 
-
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+   
+   Stwórz listę zgodną z poniższą. 
+   
+   ![](../images/lista1.png)
+   
 ## Formularze
 
 Formularze służą do pobierania danych od użytkowników odwiedzających naszą stronę internetową.
@@ -289,6 +299,13 @@ Innym rodzajem pola wyboru, który możemy zastosować to checkboxy. Na przykła
 
 Na przykład dla `<form action="/action_page.php">` dane zostaną wysłane do podstrony **action_page.php**.
 
+   
+   
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+   
+   Stwórz formularz zgodny z poniższym. 
+   
+   ![](../images/checkboxs.png)
 
 ## Pomoce naukowe
 Samouczek: http://www.w3schools.com/html
