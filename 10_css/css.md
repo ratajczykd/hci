@@ -281,6 +281,9 @@ tr:hover {
     background-color: #CCCCCC;
 }
 ```
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+Stwórz nagłówek, który będzie zmieniał czcionkę po najechaniu na niego myszką. Wykorzystaj id elementu. 
+
 ## Dziedziczenie
 
 Dziedziczenie jest dość naturalną cechą stylów CSS. Polega ono na tym, że elementy dokumentu HTML dziedziczą reguły stylów po elementach, w których się znajdują.
