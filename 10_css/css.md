@@ -354,8 +354,5 @@ W ramach HTML5 do tworzenia układu strony stosuje się nie tylko znaczniki `<di
 5. `<section>`
 6. `<article>`
 
-### Walidator CSS
-Pod adresem http://jigsaw.w3.org/css-validator/ znajduje walidator pozwalający sprawdzić poprawność stylów CSS dołączonych do strony o podanym adresie, przesłanych jako plik lub wpisanych/wklejonych w okno (analogicznie do walidatora CSS).
-
 ## Co warto przeczytać
 Ponieważ opracowywane przez nas zagadnienia są już dobrze opracowane w innych źródłach, dlatego nie wszystkie podstawowe zagadnienia z CSSa zostały tu poruszone. Aby przejść szybki pełny kurs CSSa, proponujemy stronę http://www.w3schools.com/css/default.asp , w menu po lewej pozycje CSS Basic od CSS Introduction do CSS table.
