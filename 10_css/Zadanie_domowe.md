@@ -10,7 +10,7 @@ Treść powinna zawierać przynajmniej po jednym elemencie HTML poznanym na zaj�
 - formularz
 - grafikę
 
-Strona powinna posiadać sensowny układ (zamiast szeregu elementów znajdujących się jeden pod drugim).
+Strona powinna posiadać przynajmniej **dwie podstrony** i sensowny układ (zamiast szeregu elementów znajdujących się jeden pod drugim).
 Należy wykorzystać model pudełkowy do ustalenia rozmiarów elementów i ich odstępów.
 Wykorzystać elementy graficzne uatrakcyjniające wygląd (np. obrazki tła dla strony / nagłówka).
 Zastosować komentarze.
