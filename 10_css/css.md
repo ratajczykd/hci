@@ -345,14 +345,6 @@ Przy pomocy znacznika `<div>` możemy podzielić naszą stronę na stosowne sekc
 
 Znacznik `<span>` działa analogicznie do `<div>`. Różnica polega na tym, że jest elementem inline
 
-W ramach HTML5 do tworzenia układu strony stosuje się nie tylko znaczniki `<div>`, ale także należące do tego samego typu znaczników blokowych elementy, których nazwy pochodzą od id lub class nadawanych konwencjonalnie divom o danej funkcji:
-
-1. `<header>` (nagłówek strony)
-2. `<nav>` (lista menu)
-3. `<footer>` (stopka strony)
-4. `<aside>` (boczna kolumna bez menu bocznego)
-5. `<section>`
-6. `<article>`
 
 ## Co warto przeczytać
 Ponieważ opracowywane przez nas zagadnienia są już dobrze opracowane w innych źródłach, dlatego nie wszystkie podstawowe zagadnienia z CSSa zostały tu poruszone. Aby przejść szybki pełny kurs CSSa, proponujemy stronę http://www.w3schools.com/css/default.asp , w menu po lewej pozycje CSS Basic od CSS Introduction do CSS table.
