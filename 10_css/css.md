@@ -295,6 +295,30 @@ Dziedziczone są wszystkie właściwości czcionki i tekstu, także kolor tekstu
 Tzw. model pudełkowy służy definiowaniu rozmiarów i odstępów między elementami blokowymi dokumentu HTML.
 Rozmiary elementów blokowych opisywane są wysokością i szerokością (width height), odstępem padding, ramką border i marginesem margin.
 
+
+```
+p.wybrane {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+```
+```
+p.wybrane {
+    border-style: solid;
+}
+```
+```
+p.wybrane {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+```
+
+
 ## Znaczniki `<div>` i `<span>`
 Własności *block* i *inline*
 
