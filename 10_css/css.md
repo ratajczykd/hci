@@ -282,7 +282,7 @@ tr:hover {
 }
 ```
 ###   Zadanie <img src="../images/pencil.png" width="20" align="left">
-Stwórz nagłówek, który będzie zmieniał czcionkę po najechaniu na niego myszką. Wykorzystaj id elementu. 
+Stwórz nagłówek, który będzie zmieniał czcionkę na pogrubioną po najechaniu na niego myszką. Wykorzystaj id elementu. 
 
 ## Dziedziczenie
 
