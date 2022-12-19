@@ -345,6 +345,9 @@ Przy pomocy znacznika `<div>` możemy podzielić naszą stronę na stosowne sekc
 
 Znacznik `<span>` działa analogicznie do `<div>`. Różnica polega na tym, że jest elementem inline
 
+###   Zadanie <img src="../images/pencil.png" width="20" align="left">
+Podziel swoją stronę na dwie części przy pomocy divów. Nadaj im różne kolory tła. 
+
 
 ## Co warto przeczytać
 Ponieważ opracowywane przez nas zagadnienia są już dobrze opracowane w innych źródłach, dlatego nie wszystkie podstawowe zagadnienia z CSSa zostały tu poruszone. Aby przejść szybki pełny kurs CSSa, proponujemy stronę http://www.w3schools.com/css/default.asp , w menu po lewej pozycje CSS Basic od CSS Introduction do CSS table.
