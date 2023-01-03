@@ -49,10 +49,10 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |8.|	Zbieranie danych do projektu	| 1/6.12.22 |	-	|	-	|
 |9.|	HTML 	| 8/13.12.22 |	-	|	-	|
 |10.|	CSS	| 22/20.12.22 |	Praca domowa	|	3	|
-|11.|	Liczby binarne	| 5/3.01.23 |	Praca domowa	|	2	|
-|12.|	Bramki logiczne	| 12/10.01.23 |	Praca domowa	|	2	|
-|13.|	VR	| 19/17.01.23 |	Praca domowa	|	2	|
-|14.|	Dodatkowe	| 26/24.01.23 |	-	|	-	|
+|11.|	Liczby binarne	| 5/10.01.23 |	Praca domowa	|	2	|
+|12.|	Bramki logiczne	| 12/17.01.23 |	Praca domowa	|	2	|
+|13.|	VR	| 19/24.01.23 |	Praca domowa	|	2	|
+|14.|	Dodatkowe	| 26/31.01.23 |	-	|	-	|
 |   |	  |  	| Projekt | 10 |
 |  	|	  |  	| **Suma** | **30** |
 
