@@ -22,10 +22,11 @@
 		 https://youtu.be/65gdFdwsTVg?t=13
 	![](https://helios-i.mashable.com/imagery/articles/00SyLheLU99MEFeecfJODw0/hero-image.fill.size_1200x675.v1611612984.png)
 	* Przy pomocy palców
-	https://www.youtube.com/watch?v=HxzdiZJPAts&ab_channel=RoadtoVR![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-45422-6/MediaObjects/41598_2019_45422_Fig1_HTML.png)
+	https://www.youtube.com/watch?v=HxzdiZJPAts&ab_channel=RoadtoVR
+	![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-45422-6/MediaObjects/41598_2019_45422_Fig1_HTML.png)
 * Wskazywanie 
 	* Wskaźnik laserowy
-				![](https://docs.unrealengine.com/4.27/Images/BuildingWorlds/VRMode/Controls/selectionmode.jpg)
+	![](https://docs.unrealengine.com/4.27/Images/BuildingWorlds/VRMode/Controls/selectionmode.jpg)
 * Metody pośrednie
 	* Wirtualny touchpad
 	* Wirtualny pad
