@@ -18,10 +18,10 @@
 
 ## Wybór obiektów 
 * Chwytanie
-	* Z kontrolerem (ręka wirtualna, ręka ,,Gadżeta'')
-		 https://youtu.be/65gdFdwsTVg?t=13
+	* Z kontrolerem (ręka wirtualna, ręka ,,Gadżeta'') //
+	https://youtu.be/65gdFdwsTVg?t=13
 	![](https://helios-i.mashable.com/imagery/articles/00SyLheLU99MEFeecfJODw0/hero-image.fill.size_1200x675.v1611612984.png)
-	* Przy pomocy palców
+	* Przy pomocy palców //
 	https://www.youtube.com/watch?v=HxzdiZJPAts&ab_channel=RoadtoVR
 	![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-45422-6/MediaObjects/41598_2019_45422_Fig1_HTML.png)
 * Wskazywanie 
@@ -44,9 +44,9 @@
 
 ## Zadanie <img src="../images/pencil.png" width="20" align="left">
 
-**Grupa 1**
-Rozważenie typów interakcji pod kątem intuicyjności, użyteczności i komfortu użytkowania. Jak można poprawić te aspekty? 
-**Grupa 2**
+**Grupa 1** //
+Rozważenie typów interakcji pod kątem intuicyjności, użyteczności i komfortu użytkowania. Jak można poprawić te aspekty? //
+**Grupa 2** //
 Rozważenie typów interakcji pod kątem immersji i *presence*. Jak można poprawić te aspekty? 
 
 
