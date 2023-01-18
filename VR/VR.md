@@ -45,9 +45,9 @@
 ## Zadanie <img src="../images/pencil.png" width="20" align="left">
 
 **Grupa 1** <br>
-Rozważenie typów interakcji pod kątem intuicyjności, użyteczności i komfortu użytkowania. Jak można poprawić te aspekty? <br>
+Rozważcie typy interakcji pod kątem intuicyjności, użyteczności i komfortu użytkowania. Jak można poprawić te aspekty? <br>
 **Grupa 2** <br>
-Rozważenie typów interakcji pod kątem immersji i *presence*. Jak można poprawić te aspekty? 
+Rozważcie typy interakcji pod kątem immersji i *presence*. Jak można poprawić te aspekty? 
 
 
 
