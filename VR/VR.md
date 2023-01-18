@@ -6,15 +6,15 @@
 
 # Typy interakcji w VR 
 
-1. Wybór obiektów
-2. Manipulacja 
-	a) Zmiana położenia
-	b) Rotacja 
-	c) Zmiana wielkości
-3. Lokomocja
-	a) Poruszanie się (sunięcie) przy pomocy kontrolera
-	b) Fizyczne poruszanie się
-	c) Teleportacja 
+1. Wybór obiektów <br>
+2. Manipulacja <br>
+	a) Zmiana położenia <br>
+	b) Rotacja <br>
+	c) Zmiana wielkości <br>
+3. Lokomocja <br>
+	a) Poruszanie się (sunięcie) przy pomocy kontrolera <br>
+	b) Fizyczne poruszanie się <br>
+	c) Teleportacja <br>
 
 ## Wybór obiektów 
 * Chwytanie
