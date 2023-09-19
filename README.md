@@ -27,6 +27,7 @@ Kurs składa się z trzech części:
  1. Analiza biosygnałów
  2. Tworzenie stron internetowych
  3. Elementy Computer Science
+ 4. Elementy Human-Robot Interaction
 
 
 Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub w domu oraz na podstawie **projektu** dotyczącego interfejsów mózg komputer.
