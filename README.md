@@ -31,20 +31,21 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 ### Terminarz zajęć
 | lp. | Temat | Data | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
-|1.|	Jupyter notebook i przypomnienie pythona | 6/11.10.22	|	-	|	-	|
-|2.|	Numpy i Matplotlib	| 13/18.10.22 |	Praca domowa	|	3	|
-|3.|	Analiza sygnałów 1	| 20/25.10.22 |	Arkusz z zajęć	|	2	|
-|4.|	Analiza sygnałów 2	| 27.10/8.11.22 |	Praca domowa	|	2	|
-|5.|	Wykrywanie sygnału EEG | 3/15.11.22	|	Arkusz z zajęć	|	2	|
-|6.|	Potencjały wywołane	| 17/22.11.22 |	Arkusz z zajęć	|	2	|
-|7.| Wykrywanie mrugnięć | 24/29.11.22 | - | - |
-|8.|	Zbieranie danych do projektu	| 1/6.12.22 |	-	|	-	|
-|9.|	HTML 	| 8/13.12.22 |	-	|	-	|
-|10.|	CSS	| 22/20.12.22 |	Praca domowa	|	3	|
-|11.|	Liczby binarne	| 5/10.01.23 |	Praca domowa	|	2	|
-|12.|	Bramki logiczne	| 12/17.01.23 |	Praca domowa	|	2	|
-|13.|	VR	| 19/24.01.23 |	Praca domowa	|	2	|
-|14.|	Dodatkowe	| 26/31.01.23 |	-	|	-	|
+|1.|	Liczby binarne | 6/9.10.23	|	Praca domowa	|	2	|
+|2.|	Bramki logiczne	| 13/16.10.23 |	Praca domowa	|	2	|
+|3.|	HTML	| 20/23.10.23 |	-	|	-	| 
+|4.|	CSS	| 27.10/30.10.23 |	Praca domowa	|	3	|  
+|5.|	Analiza sygnałów 1 | 3/6.11.23	|	Arkusz z zajęć	|	2	|
+|6.|	Analiza sygnałów 2	| 10/13.11.23 |	Praca domowa	|	2 |
+|7.| Wykrywanie sygnału EEG | 17/20.11.23 | Arkusz z zajęć | 2 |
+|8.|	Potencjały wywołane	| 24/27.11.23 |	Arkusz z zajęć	|	2	|
+|9.| Wykrywanie mrugnięć	| 1/4.12.23 |	-	|	-	|
+|10.|	Zbieranie danych do projektu	| 8/11.12.23 |	-	|	-	|
+|11.|	Zbieranie danych do projektu 2	| 15/18.12.23 |	-	| -	|
+|12.|	VR	| 12/8.01.24 |	-	| -	|
+|13.|	Elementy Human-Robot Interaction	| 19/15.01.24 |	Praca domowa	|	2	|
+|14.|	Elementy Human-Robot Interaction 2	| 26/22.01.24 |	-	|	-	|
+|15.|	Poprawka	| 02/29.01.24 |	-	|	-	|
 |   |	  |  	| Projekt | 10 |
 |  	|	  |  	| **Suma** | **30** |
 
