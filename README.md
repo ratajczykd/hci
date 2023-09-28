@@ -15,9 +15,9 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 ### :books: Z czego składa się kurs?
 
 Kurs składa się z czterech części:
- 1. Analiza biosygnałów
+ 1. Elementy Computer Science
  2. Tworzenie stron internetowych
- 3. Elementy Computer Science
+ 3. Analiza biosygnałów
  4. Elementy Human-Robot Interaction
 
 
