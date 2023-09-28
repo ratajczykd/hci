@@ -36,7 +36,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |3.|	HTML	| 20/23.10.23 |	-	|	-	| 
 |4.|	CSS	| 27.10/30.10.23 |	Praca domowa HTML+CSS (deadline: 2 tygodnie) <br> Praca domowa Jupyter N. (deadline: 1 tydzień)	|	3 <br> 2	|  
 |5.|	Analiza sygnałów 1 | 3/6.11.23	|	Arkusz z zajęć	|	2	|
-|6.|	Analiza sygnałów 2	| 10/13.11.23 |	Praca domowa	|	2 |
+|6.|	Analiza sygnałów 2	| 10/13.11.23 |	Praca domowa (deadline: 1 tydzień)	|	2 |
 |7.| Wykrywanie sygnału EEG | 17/20.11.23 | Arkusz z zajęć | 2 |
 |8.|	Potencjały wywołane	| 24/27.11.23 |	Arkusz z zajęć	|	2	|
 |9.| Wykrywanie mrugnięć	| 1/4.12.23 |	-	|	-	|
