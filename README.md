@@ -39,7 +39,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |6.|	Analiza sygnałów 2	| 10/13.11.23 |	Praca domowa (deadline: 1 tydzień)	|	2 |
 |7.| Wykrywanie sygnału EEG | 17/20.11.23 | Arkusz z zajęć | 2 |
 |8.|	Potencjały wywołane	| 24/27.11.23 |	Arkusz z zajęć	|	2	|
-|9.| Wykrywanie mrugnięć	| 1/4.12.23 |	-	|	-	|
+|9.| Wykrywanie mrugnięć	| 1/4.12.23 |	(4.12) Deadline na program do projektu	|	-	|
 |10.|	Zbieranie danych do projektu	| 8/11.12.23 |	-	|	-	|
 |11.|	Zbieranie danych do projektu 2	| 15/18.12.23 |	-	| -	|
 |12.|	VR	| 12/8.01.24 |	-	| -	|
@@ -63,9 +63,9 @@ W ramach projektu wymagane jest:
 (3) przygotowanie kodu, który odszyfrowuje wybrane litery, oraz \
 (4) przygotowanie raportu z projektu. 
 
-Na zajęciach nr 8 (1/6 grudnia) będą Państwo zbierać dane do projektu. Do tego czasu proszę przygotować program wyświetlający litery alfabetu w pętli (warty 2pkt w projekcie). W najprostszej formie mogą to być litery wyświetlane w wierszu poleceń lub w jupyterze (max 1pkt), w bardziej rozbudowanej formie wyświetlanie inferfejsu graficznego (przy pomocy np. tkintera, pygame'a albo psychopy'a). Program (nazwijmy go Wyświetlaczem Liter) powinien wyświetlać kolejno wszystkie litery alfabetu przez wybrany odcinek czasu (np. każda litera przed jedną sekundę). Po skończeniu alfabetu powinien zaczynać od nowa. Muszą Państwo wiedzieć w którym momencie były wyświetlane konkretne litery (np. że litera "F" pojawiała się między 6 a 7 sekundą). Informacja ta będzie potrzebna do odkodowania liter wybranych przez mrugnięcia.
+Na zajęciach nr 10 i 11 będą Państwo zbierać dane do projektu. Do tego czasu proszę przygotować program wyświetlający litery alfabetu w pętli (warty 2pkt w projekcie). Proszę przesłać program do 4.12. W najprostszej formie mogą to być litery wyświetlane w wierszu poleceń lub w jupyterze (max 1pkt), w bardziej rozbudowanej formie wyświetlanie inferfejsu graficznego (przy pomocy np. tkintera, pygame'a albo psychopy'a). Program (nazwijmy go Wyświetlaczem Liter) powinien wyświetlać kolejno wszystkie litery alfabetu przez wybrany odcinek czasu (np. każda litera przed jedną sekundę). Po skończeniu alfabetu powinien zaczynać od nowa. Muszą Państwo wiedzieć w którym momencie były wyświetlane konkretne litery (np. że litera "F" pojawiała się między 6 a 7 sekundą). Informacja ta będzie potrzebna do odkodowania liter wybranych przez mrugnięcia.
 
-Po zebraniu danych należy przygotować kod (w arkuszu jupyter notebook) który wykrywa mrugnięcia i odszyfrowuje jakie litery zostały "wymrugane" przez osobę oraz raport z projektu zawierający opis zadania, wybrane metody, opis analizy i uzyskanych wyników, opis błędów które się pojawiły i możliwych ulepszeń. Deadline to **8. stycznia**.
+Po zebraniu danych należy przygotować kod (w arkuszu jupyter notebook) który wykrywa mrugnięcia i odszyfrowuje jakie litery zostały "wymrugane" przez osobę oraz raport z projektu zawierający opis zadania, wybrane metody, opis analizy i uzyskanych wyników, opis błędów które się pojawiły i możliwych ulepszeń. Deadline to **13. stycznia**.
 
 
 
