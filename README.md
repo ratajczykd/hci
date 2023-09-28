@@ -8,22 +8,13 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 ### :e-mail: Kontakt do prowadzących
 
  * dr inż. Marcin Jukiewicz (koordynator), marcin.jukiewicz[at]amu.edu.pl
- * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl, dyżur środa 9:00-10:00, pokój 110 (lub online)
+ * mgr Aleksandra Wasielewska, aleksandra.wasielewska@amu.edu.pl
+ * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl,  dyżur: piątek 11:30-12:30, pokój 110
 
-### Instalacja Jupyter notebook:
-W konsoli:
-```
- pip install jupyterlab
- pip install notebook
-```
-Aby uruchomić notebook wpisujemy w konsoli:
-```
-jupyter notebook
-```
 
 ### :books: Z czego składa się kurs?
 
-Kurs składa się z trzech części:
+Kurs składa się z czterech części:
  1. Analiza biosygnałów
  2. Tworzenie stron internetowych
  3. Elementy Computer Science
@@ -102,28 +93,17 @@ Po zebraniu danych należy przygotować kod (w arkuszu jupyter notebook) który 
 * Pamiętaj o opisywaniu osi wykresów - jaka zmienna jest prezentowana oraz w jakich jednostkach
 * Podpisz się na arkuszu 
 
+### Instalacja Jupyter notebook:
+W konsoli:
+```
+ pip install jupyterlab
+ pip install notebook
+```
+Aby uruchomić notebook wpisujemy w konsoli:
+```
+jupyter notebook
+```
 
 
-<details>
- <summary><i>W przypadku przejścia na tryb zdalny przed rozpoczęciem projektu</i></summary>
- 
- ## Esej zamiast projektu
- 
-### Temat eseju
 
-Proponowany temat eseju dotyczy możliwych problemów i korzyści urządzenia do interfejsów mózg-komputer, ale może to być dowolny temat związany z komunikacją człowiek-komputer. Na indywidualne spotkanie (zajęcia 8) dotyczące konkretnego tematu eseju proszę przygotować zarys pomysłu w punktach. Objętość: 2-3 strony razem z bibliografią. Tekst powinien mieć formę tekstu naukowego - zawierać hipotezy lub pytania i argumentację, oraz odnośniki do prac naukowych (cytowanie APA).
-
-#### Strona formalna eseju
-* Objętość: mniej więcej 2-3 strony razem z bibliografią (koniecznie APA)
-* Czcionka 11-12, szeryfowa (bezwzględnie nie comic sans :)
-* Bez abstraktu
-* Na samym początku pracy: temat, imię oraz nazwisko
-* Proszę przesłać plik pdf na maila z informacją [KCK esej]
-* Polecam latexa
-* Przynajmniej jedno odwołanie do publikacji naukowej
-* Praca musi zawierać spis literatury *wykorzystanej* w tekście.
-
-Na ocenę eseju będzie składać się: spójność argumentacji, zgodność treści z tematem, wykorzystanie właściwych źródeł, poprawność językowa, spełnienie kryteriów formalnych. 
-
-</details>
 
