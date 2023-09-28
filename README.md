@@ -34,7 +34,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |1.|	Liczby binarne | 6/9.10.23	|	Praca domowa	|	2	|
 |2.|	Bramki logiczne	| 13/16.10.23 |	Praca domowa	|	2	|
 |3.|	HTML	| 20/23.10.23 |	-	|	-	| 
-|4.|	CSS	| 27.10/30.10.23 |	Praca domowa	|	3	|  
+|4.|	CSS	| 27.10/30.10.23 |	Praca domowa + praca domowa	|	3 + 2	|  
 |5.|	Analiza sygnałów 1 | 3/6.11.23	|	Arkusz z zajęć	|	2	|
 |6.|	Analiza sygnałów 2	| 10/13.11.23 |	Praca domowa	|	2 |
 |7.| Wykrywanie sygnału EEG | 17/20.11.23 | Arkusz z zajęć | 2 |
