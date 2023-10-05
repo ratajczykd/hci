@@ -39,7 +39,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |6.|	Analiza sygnałów 2	| 17/13.11.23 |	Praca domowa (deadline: 1 tydzień)	|	2 |
 |7.| Wykrywanie sygnału EEG | 24/20.11.23 | Arkusz z zajęć | 2 |
 |8.|	Potencjały wywołane	| 1.12/27.11.23 |	Arkusz z zajęć	|	2	|
-|9.| Wykrywanie mrugnięć	| 8/4.12.23 |	(4.12) Deadline na program do projektu	|	-	|
+|9.| Wykrywanie mrugnięć	| 8/4.12.23 |	(8.12) Deadline na program do projektu	|	-	|
 |10.|	Zbieranie danych do projektu	| 15/11.12.23 |	-	|	-	|
 |11.|	Zbieranie danych do projektu 2	| 18.12.23 |	-	| -	|
 |12.|	VR	| 12/8.01.24 |	-	| -	|
