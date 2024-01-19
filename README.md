@@ -43,7 +43,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |10.|	Zbieranie danych do projektu	| 15/11.12.23 |	-	|	-	|
 |11.|	Zbieranie danych do projektu 2	| 18.12.23 |	-	| -	|
 |12.|	VR	| 12/8.01.24 |	-	| -	|
-|13.|	Elementy Human-Robot Interaction	| 19/15.01.24 |	Praca domowa	|	3	|
+|13.|	Elementy Human-Robot Interaction	| 19/15.01.24 |	Praca na zajęciach/domowa	|	3	|
 |14.|	Elementy Human-Robot Interaction 2	| 26/22.01.24 |	-	|	-	|
 |15.|	Poprawka	| 02/29.01.24 |	-	|	-	|
 |   |	  |  	| Projekt | 10 |
