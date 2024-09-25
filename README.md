@@ -7,9 +7,10 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### :e-mail: Kontakt do prowadzących
 
- * dr inż. Marcin Jukiewicz (koordynator), marcin.jukiewicz[at]amu.edu.pl
- * mgr Aleksandra Wasielewska, aleksandra.wasielewska[at]amu.edu.pl
+ * mgr Agnieszka Smolnicka, agnieszka.smolnicka[at]amu.edu.pl
  * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl,  dyżur: piątek 11:30-12:30, pokój 110
+ * mgr Aleksandra Wasielewska, aleksandra.wasielewska[at]amu.edu.pl 
+ * dr inż. Marcin Jukiewicz (koordynator), marcin.jukiewicz[at]amu.edu.pl
 
 
 ### :books: Z czego składa się kurs?
@@ -21,7 +22,7 @@ Kurs składa się z czterech części:
  4. Elementy Human-Robot Interaction
 
 
-Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub w domu oraz na podstawie **projektu** dotyczącego interfejsów mózg komputer.
+Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub w domu, **wejściówek** oraz na podstawie **projektu** dotyczącego interfejsów mózg komputer.
 
 
 
