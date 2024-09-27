@@ -75,7 +75,8 @@ Kluczowe wymaganie: Program musi rejestrować momenty, w których były wyświet
 
 ```litera = 'A'
 with open("litery_czas.txt", "a") as myfile:
-    myfile.write(litera + ', ' + str(time.time()) + '\n')```
+    myfile.write(litera + ', ' + str(time.time()) + '\n')
+```
 
 Po zebraniu danych należy przygotować kod (w arkuszu Jupyter Notebook), który wykrywa mrugnięcia i odszyfrowuje, jakie litery zostały "wymrugane" przez osobę. Ważne jest, aby kod działał poprawnie, natomiast nie ma wymogu poprawnego zdekodowania całego słowa.
 
