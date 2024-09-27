@@ -30,23 +30,23 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
  **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie nieobecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
 ### Terminarz zajęć
-| lp. | Temat | Data | Zadanie | Liczba punktów |						
+| lp. | Temat | Data (czwartek/piątek) | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
-|1.|	Liczby binarne | 6/9.10.23	|	-	|		|
-|2.|	Bramki logiczne	| 13/16.10.23 |	Praca domowa	|	2	|
-|3.|	HTML	| 20/23.10.23 |	-	|	-	| 
-|4.|	CSS	| 27.10/30.10.23 |	-	|	- |  
-|5.|	Analiza sygnałów 1 | 10/6.11.23	|	Arkusz z zajęć	|	2	|
-|6.|	Analiza sygnałów 2	| 17/13.11.23 |	Praca domowa	|	2 |
-|7.| Wykrywanie sygnału EEG | 24/20.11.23 | - | - |
-|8.|	Potencjały wywołane	| 1.12/27.11.23 |	Arkusz z zajęć	|	2	|
-|9.| Wykrywanie mrugnięć	| 8/4.12.23 |	(3 dni przed zbieraniem danych) Deadline <br>na program do projektu	|	-	|
-|10.|	Zbieranie danych do projektu	| 15/11.12.23 |	-	|	-	|
-|11.|	Zbieranie danych do projektu 2	| 18.12.23 |	-	| -	|
-|12.|	VR	| 12/8.01.24 |	-	| -	|
-|13.|	Elementy Human-Robot Interaction	| 19/15.01.24 |	Praca na zajęciach/domowa	|	4	|
-|14.|	Elementy Human-Robot Interaction 2	| 26/22.01.24 |	-	|	-	|
-|15.|	Poprawka	| 02/29.01.24 |	-	|	-	|
+|1.|	Liczby binarne | 3/4.10.24	|	-	|		|
+|2.|	Bramki logiczne	| 10/11.10.24 |	Praca domowa	|	2	|
+|3.|	HTML	| 17/18.10.24 |	-	|	-	| 
+|4.|	CSS	| 24/25.10.24 |	-	|	- |  
+|5.|	Analiza sygnałów 1 | 7/8.11.24	|	Arkusz z zajęć	|	2	|
+|6.|	Analiza sygnałów 2	| 14/15.11.24 |	Praca domowa	|	2 |
+|7.| Wykrywanie sygnału EEG | 21/22.11.24 | - | - |
+|8.|	Potencjały wywołane	|28/29.11.24 |	Arkusz z zajęć	|	2	|
+|9.| Wykrywanie mrugnięć	| 5/6.12.24 | 	|	-	|
+|10.|	Zbieranie danych do projektu	|12/13.12.24 |	-	|	-	|
+|11.|	Zbieranie danych do projektu 2	| 19/20.12.24 |	-	| -	|
+|12.|	VR	| 9/10.01.25 |	-	| -	|
+|13.|	Elementy Human-Robot Interaction	| 16/17.01.25 |	Praca na zajęciach/domowa	|	4	|
+|14.|	Elementy Human-Robot Interaction 2	| 23/24.01.25 |	-	|	-	|
+|15.|	Poprawka	| 30/31.01.25 |	-	|	-	|
 |   |   |   | Wejściówki | 6 |
 |   |	  |  	| Projekt | 12 |
 |  	|	  |  	| **Suma** | **30** |
