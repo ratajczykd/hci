@@ -8,7 +8,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 ### :e-mail: Kontakt do prowadzących
 
  * mgr Agnieszka Smolnicka, agnieszka.smolnicka[at]amu.edu.pl
- * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl,  dyżur: piątek 11:30-12:30, pokój 110
+ * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl,  dyżur: środa 13:30-14:30, pokój 110
  * mgr Aleksandra Wasielewska, aleksandra.wasielewska[at]amu.edu.pl 
  * dr inż. Marcin Jukiewicz (koordynator), marcin.jukiewicz[at]amu.edu.pl
 
@@ -52,7 +52,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |  	|	  |  	| **Suma** | **30** |
 
 
-### Zadania domowe proszę wysyłać na adres mailowy *dawid.ratajczyk@amu.edu.pl*. Czas na wykonanie to tydzień. 
+### Zadania domowe proszę wysyłać na adres mailowy prowadzącego dane zajęcia. Czas na wykonanie to tydzień. 
 
 
 
