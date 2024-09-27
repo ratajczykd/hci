@@ -29,7 +29,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 
  **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie nieobecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
 
-### Terminarz zajęć
+## Terminarz zajęć
 | lp. | Temat | Data (czwartek/piątek) | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
 |1.|	Liczby binarne | 3/4.10.24	|	-	|		|
@@ -55,28 +55,38 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 ### Zadania domowe proszę wysyłać na adres mailowy prowadzącego dane zajęcia. Czas na wykonanie to tydzień. 
 
 
+<hr/>
 
-### Projekt
-Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu. Projekt realizuje się w grupach 2-osobowych. 
+## Projekt
+Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu, realizowanego w grupach 2-osobowych.
 
-W ramach projektu wymagane jest:
-(1) przygotowanie programu wyswietlającego litery alfabetu, \
-(2) zebranie danych osoby, która przy pomocy mrugania sygnalizuje wybór danej litery (powinna zapisać w ten sposób jakiegoś słowo), \
-(3) przygotowanie kodu, który odszyfrowuje wybrane litery, oraz \
-(4) przygotowanie raportu z projektu. 
+Wymagania projektu:
+1. Przygotowanie programu wyświetlającego litery alfabetu.
+2. Zbieranie danych osoby, która przy pomocy mrugania sygnalizuje wybór danej litery (osoba powinna zapisać w ten sposób jakieś słowo). Kod do zbierania danych dostarcza prowadzący.
+3. Przygotowanie kodu, który odszyfrowuje wybrane litery na podstawie zebranych danych z mrugnięć (detekcja skurczów mięśni czoła przy użyciu elektrody).
+4. Przygotowanie raportu z projektu zawierającego typowe elementy raportu: opis zadania, wybrane metody, opis analizy i uzyskanych wyników, opis błędów, które się pojawiły, oraz możliwych ulepszeń.
 
-Na zajęciach nr 10 i 11 będą Państwo zbierać dane do projektu. Do tego czasu proszę przygotować program wyświetlający litery alfabetu w pętli (warty 2pkt w projekcie). Proszę przesłać program w terminie 3 dni przed datą zbierania danych (8.12, 12.12 lub 15.12). W najprostszej formie mogą to być litery wyświetlane w wierszu poleceń lub w jupyterze (max 1pkt), w bardziej rozbudowanej formie wyświetlanie inferfejsu graficznego (przy pomocy np. tkintera, pygame'a albo psychopy'a). Program (nazwijmy go Wyświetlaczem Liter) powinien wyświetlać kolejno wszystkie litery alfabetu przez wybrany odcinek czasu (np. każda litera przed jedną sekundę). Po skończeniu alfabetu powinien zaczynać od nowa. Muszą Państwo wiedzieć w którym momencie były wyświetlane konkretne litery (np. że litera "F" pojawiała się między 6 a 7 sekundą). Informacja ta będzie potrzebna do odkodowania liter wybranych przez mrugnięcia.
+### Szczegóły dotyczące projektu:
+Na zajęciach nr 10 i 11 będą Państwo zbierać dane do projektu. Do tego czasu proszę przygotować program wyświetlający litery alfabetu w pętli (warty 2 punkty). Program należy przesłać na 4 dni przed datą zbierania danych.
 
-Po zebraniu danych należy przygotować kod (w arkuszu jupyter notebook) który wykrywa mrugnięcia i odszyfrowuje jakie litery zostały "wymrugane" przez osobę oraz raport z projektu zawierający opis zadania, wybrane metody, opis analizy i uzyskanych wyników, opis błędów które się pojawiły i możliwych ulepszeń. Deadline to **13. stycznia**.
+W najprostszej formie litery mogą być wyświetlane w wierszu poleceń lub w Jupyterze (max 1 pkt), a w bardziej rozbudowanej formie można zastosować interfejs graficzny przy użyciu np. Tkintera, Pygame'a albo Psychopy (max 2 pkt). Program (Wyświetlacz Liter) powinien wyświetlać kolejno wszystkie litery alfabetu przez określony czas (np. każda litera przez 1 sekundę) i po zakończeniu alfabetu rozpoczynać od nowa. Pętla musi działać do momentu ręcznego wyłączenia programu. 
 
+Kluczowe wymaganie: Program musi rejestrować momenty, w których były wyświetlane konkretne litery (np. że litera "F" była wyświetlana między 6 a 7 sekundą), ponieważ informacje te będą potrzebne do zsynchronizowania z czasami wykrycia mrugnięć w trybie offline. W programie musi znaleźć się linijka kodu, która zapisuje literę oraz jej czas wyświetlenia do pliku litery_czas.txt w następujący sposób:
 
+```litera = 'A'
+with open("litery_czas.txt", "a") as myfile:
+    myfile.write(litera + ', ' + str(time.time()) + '\n')```
+
+Po zebraniu danych należy przygotować kod (w arkuszu Jupyter Notebook), który wykrywa mrugnięcia i odszyfrowuje, jakie litery zostały "wymrugane" przez osobę. Ważne jest, aby kod działał poprawnie, natomiast nie ma wymogu poprawnego zdekodowania całego słowa.
+
+Deadline: **12 stycznia**
 
 ### Punktacja projektu
 * Interfejs graficzny -- 2pkt
 * Kod do wykrywania mrugnięć -- 2pkt
 * Synchronizacja zadań -- 1pkt
-* Poprawność analizy i wyników -- 3pkt
-* Formalna strona raportu -- 2pkt
+* Poprawność analizy i wyników -- 4pkt
+* Raport -- 3pkt
 
 ### Kryteria oceny z przedmiotu
 
