@@ -9,7 +9,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
  * mgr Agnieszka Smolnicka, agnieszka.smolnicka[at]amu.edu.pl
  * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl,  dyżur: środa 13:30-14:30, pokój 110
- * mgr Aleksandra Wasielewska, aleksandra.wasielewska[at]amu.edu.pl 
+ * mgr Aleksandra Wasielewska, aleksandra.wasielewska[at]amu.edu.pl, dyżur: środa 14:30-15:30, pokój 110
  * dr inż. Marcin Jukiewicz (koordynator), marcin.jukiewicz[at]amu.edu.pl
 
 
