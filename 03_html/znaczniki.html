@@ -1,0 +1,156 @@
+<!DOCTYPE html>                                                   <!-- deklaracja typu dokumentu (DTD) -->
+
+<html lang="pl">                                                  <!-- dokument w jezyku html -->
+
+<head>                                                            <!-- naglowek dokumentu; ustawienia dokumentu -->
+       <title> Mrówki 110 </title>                                <!-- tytul karty w przegladarce -->
+       <meta charset="UTF-8">                                     <!-- kodowanie znakow w dokumencie -->
+</head>
+
+<body>                                                            <!-- wlasciwa czesc dokumentu, widoczna dla uzytkownika na stronie -->
+
+  <h1> Oficjalna strona zrzeszenia </h1>                          <!-- naglowek pierwszego poziomu -->
+  <h2> Mrówki 110 </h2>                                           <!-- naglowek drugiego poziomu -->
+
+  <p>                                                             <!-- akapit -->
+      Strona jest poświęcona działalności mrówek              
+      "Lasius niger" znajdujących się w pokoju 110
+      na Wydziale Psychologii i Kognitywistyki.<br>               <!-- nowa linia --> 
+      Zapewnia aktualności z ich życia oraz nowinki
+      z błądzenia wśród traw.
+  </p>                                    
+  
+  <hr>                                                            <!-- pozioma linia -->
+
+  <p>
+    <i> kursywa </i>                                              <!-- kursywa -->    
+    <em> kursywa </em>                                            <!-- kursywa, ale jako wyroznienie (skutek ten sam) -->
+    <b> pogrubienie </b>                                          <!-- pogrubienie --> 
+    <strong> pogrubienie </strong>                                <!-- pogrubienie, ale jako wyroznienie (skutek ten sam) -->
+  </p>
+    
+  <hr>
+    
+  <a href="https://www.google.com">Link do strony internetowej</a> <br>         <!-- link; atrybut href - sciezka zrodlowa; miedzy znacznikami tekst, pod ktorym jest link -->
+  <a href="moja_strona.html">Link do lokalnego pliku html w tym samym folderze</a> <br>
+  <a href="\C:\Users\Student\Desktop\moja_strona.html">Link do lokalnego pliku html w innym folderze</a> <br>
+  
+  <hr>
+  
+  <img src="dziobak.png" height=100 width = 200>                  <!-- obraz; atrybut scr - sciezka zrodlowa; atrybut height - wysokosc obrazu; atrybut width - szerokosc obrazu -->
+  <img src="\C:\Users\Student\Desktop\dziobak.png" height=200>    <!-- wyzej: sciezka do obrazu w tym samym folderze; tu: sciezka do obrazu w innym folderze -->
+  <img src="https://as2.ftcdn.net/v2/jpg/02/95/62/09/1000_F_295620903_viY99jOBVqnHczjrIiUEOY1vXSHG2gOo.jpg" width=200>                 <!-- sciezka do obrazu w internecie -->
+
+  <hr>
+
+  <table>                                                         <!-- tabela -->
+    <caption>Tabelka</caption>                                    <!-- tytul tabeli -->
+      
+    <tr>                                                          <!-- wiersz tabeli; dla kolumny tabeli nie ma znacznika -->
+      <td></td> <th>nagłówek kolumny 1</th><th>nagłówek kolumny 2</th><th>nagłówek kolumny 3</th>             <!-- td - komorka tabelki, th - naglowek wiersza lub kolumny -->
+    </tr>
+    <tr>
+      <th>nagłówek wiersza 1</th> <td>treść</td><td>treść</td><td>treść</td>
+    </tr>
+    <tr>
+      <th>nagłówek wiersza 2</th> <td>treść</td><td>treść</td><td>treść</td>
+    </tr>
+    <tr>
+      <th>nagłówek wiersza 3</th> <td>treść</td><td>treść</td><td>treść</td>
+    </tr>
+  </table>
+
+  <hr>
+
+  <table>
+    <caption>Tabelka ze scalonymi komórkami</caption>
+    
+    <tr>
+        <td></td> <th colspan="3">nagłówek kolumn 1-3</th> <td></td>                                                           <!-- colspan="k" - multikolumna na k kolumn -->
+    </tr>
+    <tr>
+        <td></td> <th>nagłówek kolumny 1</th><th>nagłówek kolumny 2</th><th>nagłówek kolumny 3</th><th>nagłówek kolumny 4</th>
+    </tr>
+    <tr>
+        <th>nagłówek wiersza 1</th> <td>treść</td><td>treść</td> <td rowspan="2">komórka wysoka na 2 rzędy</td> <td>treść</td> <!-- rowspan="k" - multiwiersz na k wierszy -->
+    </tr>
+    <tr>
+        <th rowspan="2">nagłówek wierszy 2-3</th> <td>treść</td></td><td>treść</td> <td>treść</td>
+    </tr>
+    <tr>
+        <td>treść</td> <td colspan="2">komórka szeroka na 2 kolumny</td>  <td>treść</td>
+    </tr>
+  </table>
+
+  <hr>
+
+  Lista nienumerowana:
+  <ul>                                                                 <!-- lista nienumerowana/nieuporzadkowana -->
+      <li>element</li>                                                 <!-- element listy -->
+      <li>element</li>
+      <li>zagnieżdżona lista numerowana:
+          <ol>                                                         <!-- lista numerowana/uporzadkowana; listy obu typow mozna zagniezdzac i mieszac -->
+              <li>element</li>
+              <li>element</li>
+              <li>element</li>
+          </ol>
+      </li>
+      <li>element</li>
+  </ul>
+
+  <hr>
+
+  Formularz jednokrotnego wyboru:
+  <form>                                                               <!-- formularz jednokrotnego wyboru (type="radio") -->
+    <input type="radio" id="odp1" name="pytanie_1" value="opcja_1">    <!-- opcja (value) wybranej zmiennej (name) oznaczona swoim id -->
+    <label for="odp1">opcja 1</label> <br>                             <!-- podpis opcji o ustalonym id (for) -->
+
+    <input type="radio" id="odp2" name="pytanie_1" value="opcja_2">    <!-- kazda opcja to wartosc tej samej zmiennej - to samo name -->
+    <label for="odp2">opcja 2</label> <br>
+
+    <input type="radio" id="odp3" name="pytanie_1" value="opcja_3">    
+    <label for="odp3">opcja 3</label> <br>
+    
+    <input type="submit" value="Prześlij">                             <!-- przycisk do przeslania danych; przesylana jest wartosc zmiennej name; o przesylaniu nizej -->
+  </form>
+
+  <hr>
+
+  Formularz wielokrotnego wyboru:
+  <form>                                                                    <!-- formularz wielokrotnego wyboru (type="checkbox") -->
+    <input type="checkbox" id="odp1.1" name="pytanie_1.1" value="opcja_1"> 
+    <label for="odp1.1">opcja 1</label> <br>         
+    
+    <input type="checkbox" id="odp1.2" name="pytanie_1.2" value="opcja_2">  <!-- kazda opcja to w praktyce wartosc innej zmiennej - inne name -->
+    <label for="odp1.2">opcja 2</label> <br>
+
+    <input type="checkbox" id="odp1.3" name="pytanie_1.3" value="opcja_3"> 
+    <label for="odp1.3">opcja 3</label> <br>
+
+    <input type="submit" value="Prześlij">                            
+  </form>
+  
+  <hr>
+  
+  <form>                                                               <!-- formularz otwarty, z polem pobierajacym dane (type="text") -->
+    <label for="odpt1">Formularz otwarty:</label>                    
+    <input type="text" id="odpt1" name="pytanie_otwarte_1">            <!-- pole pobierajace dane - wartosc wybranej zmiennej (name), oznaczone swoim id -->
+    
+    <input type="submit" value="Prześlij">
+  </form>                                                      
+  
+  <hr>
+  
+  <form action="action_page.php" method="POST">                        <!-- formularz otwarty z przeslaniem danych do bazy przy pomocy jezyka php; -->
+    <label for="odpt2">Formularz z przesłaniem danych:</label>         <!-- w podanym pliku powinno sie zdefiniowac co ma sie zadziac z danymi po wybraniu przycisku; --> 
+    <input type="text" id="odpt2" name="pytanie_otwarte_2">            <!-- my nie bedziemy juz go podpinac, ale warto wiedziec jak sie przesyla odpowiedzi na formularze -->
+    
+    <input type="submit" value="Prześlij">
+  </form>
+  
+</body>
+
+</html>
+
+
+

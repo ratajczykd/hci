@@ -1,0 +1,160 @@
+
+/* selektor = znacznik */
+
+body {
+    background-color: #FF9900;                                                  /* kolor tla */
+    /*background-image: url('dziobak.png');*/                                   /* obrazek w tle */
+    /*background: #FF9900 url('dziobak.png') no-repeat top right;*/             /* kolor tla i obrazek w tle w prawym gornym rogu (nie na calosci) */
+}
+
+p {                                                                             
+    font-size: 18px;                                                            /* rozmiar czcionki */
+    font-family: arial, verdana, sans-serif;                                    /* nazwa czcionki; jesli nie ma na urzadzeniu zainstalowanej pierwszej z nich, to druga; jesli nie ma drugiej, to trzecia, itd. */
+    font-style: normal;                                                         /* styl czcionki - zwykly (domyslny) */
+    font-weight: bold;                                                          /* styl czcionki - pogrubienie */
+    text-align: justify;                                                        /* wyrownanie tekstu - wyjustowany */
+    text-decoration: underline;                                                 /* dekoracje tekstu - podkreslenie */
+    color: yellow;                                                              /* kolor czcionki */
+    background-color: dodgerblue;                                               /* kolor tla za tekstem */
+}
+
+h1 {                                                                            
+    font-size: 20px;
+    font-family: arial, verdana, sans-serif;
+    font-style: italic;                                                         /* styl czcionki - kursywa */
+    text-align: right;                                                          /* wyrownanie tekstu - do prawej */
+    text-decoration: line-through;                                              /* dekoracje tekstu - przekreslenie */
+    color: blue;                                                                
+    background-color: cyan;                                                     
+}
+
+
+/* selektor = element z id */
+
+#important {                                                                    
+    background-color: magenta;                                                                                           
+}
+
+
+/* selektor = znacznik z id */
+
+ul#last {                                                                       
+    list-style: none;                                                           /* usuniecie domyslnych stylow listy */
+    padding: 0;                                                                 /* brak marginesu wewnetrznego (tu wokol elementow listy) */
+    margin: 0;                                                                  /* brak marginesu zewnetrznego (tu wokol calej listy) */
+    color: blue;
+}
+
+ol#last {                                                                       
+    color: pink;                                                              
+}
+
+
+/* selektor = element z klasą */
+
+.mustsee {                                                                     
+    color: red;                                                                   
+}
+
+
+/* selektor = znacznik z klasą */
+
+ul.mustsee {                                                                    
+    color: dodgerblue;                                                          /* kolor tekstu listy = elementy + znaczniki */
+}
+
+li.ecopoint {                                                                   
+    font-style: italic;                                                         
+    color: green;                                                               /* kolor tekstu elementu listy */                                                     
+}
+
+table.first {
+    border: solid 4px deeppink;                                                 /* ramka - ciemno rozowa ciagla linia o grubosci 4 */
+}
+
+
+/* selektor = znacznik z dwoma klasami */
+
+.mustsee.first {
+    background-color: khaki;     
+}
+
+
+/* selektor = element wewnątrz innego elementu */
+
+p em {                                                                          
+    color: pink;
+}
+
+#new input {                                                                    
+    background-color: chartreuse;
+}
+
+ul#last li {                                                                    
+    background-color: white;
+    margin: 5px;
+}
+
+ul.mustsee li.key {                                                             
+    background-color: springgreen;
+}
+
+
+/* selektor = kilka elementów o takim samym docelowym formatowaniu */
+
+h2, p strong {
+    font-size: 20px;                                                            
+}
+
+
+/* selektor = znacznik z pseudo-klasą */
+
+a:link {                                                                          /* linki w stanie "spoczynku" (przed kliknieciem) */
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover {                                                                         /* linki, nad ktorymi jest kursor myszy */
+    color: orange;
+    background-color: blue;
+}
+
+a:active {                                                                        /* linki, ktore sa wlasnie klikane */
+    color: olive;
+    background-color: transparent;                                              /* brak tla */
+}
+
+a:visited {                                                                       /* linki odwiedzonych (po kliknieciu) */                                                        
+    color: #CCCCCC;                  
+}
+
+tr:hover {                                                                        /* wiersze tabeli, nad ktorymi jest kursor myszy */
+    background-color: white;
+}
+
+
+/* zmiana własności blokowych */
+
+a {                                                                             
+    display:block;                                                                /* zmiana elementu z typu liniowego na blokowy */
+}
+
+p {
+    display:inline;                                                               /* zmiana elementu z typu blokowego na liniowy */
+}
+
+
+/* selektor = znacznik ogólny z klasą */
+
+div.links {                                                                     
+    border-left: solid 5px yellow;                                              
+}
+
+span.images {                                                                   
+   box-shadow: 0 8px 12px white;                                                /* cien pod linia */                                              
+}
+
+
+
+
+
