@@ -55,8 +55,8 @@ document.addEventListener('DOMContentLoaded', function(e) {
 <div id="css" class="section level1">
 <h1>CSS</h1>
 <p>CSS (ang. <em>Cascading Style Sheets</em>) - Kaskadowe Arkusze Stylów
-- tworzony i rozwijany od 1994 roku język służący do programowania
-wyglądu stron HTML.</p>
+- tworzony i rozwijany od 1994 roku język służący do określania wyglądu
+stron HTML.</p>
 <p>Zanim stworzono CSS do opisu wyglądu strony używano specjalnych
 znaczników (np. <code>&lt;font size=&quot;3&quot; face=&quot;arial&quot;&gt;</code> ,
 <code>&lt;center&gt;</code>) albo atrybutów (np. color=“green”).
@@ -135,12 +135,13 @@ typu.</p>
 <ul>
 <li>background-color: red;</li>
 <li>background-color: #FF9900;</li>
-<li>background-color: rgb(255,0,0); Składowe RGB to wartości pomiędzy 0
-a 255 określające odpowiednio “ilość” koloru czerwonego (Red), zielonego
-(Green) oraz niebieskiego (Blue). Wartość rgb(255,40,0) oznacza, że
-barwa składa się z maksymalnej ilości koloru czerwonego (255), 40 koloru
-zielonego i w jej skład nie wchodzi kolor niebieski.</li>
+<li>background-color: rgb(255,0,0);</li>
 </ul>
+<p>Składowe RGB to wartości pomiędzy 0 a 255 określające odpowiednio
+“ilość” koloru czerwonego (Red), zielonego (Green) oraz niebieskiego
+(Blue). Wartość rgb(255,40,0) oznacza, że barwa składa się z maksymalnej
+ilości koloru czerwonego (255), 40 koloru zielonego i w jej skład nie
+wchodzi kolor niebieski.</p>
 <ol start="2" style="list-style-type: decimal">
 <li>Obrazek jako tło elementu</li>
 </ol>
@@ -206,10 +207,11 @@ umożliwia więc także grupowanie elementów.</p>
 </div>
 <div id="klasa" class="section level3">
 <h3>Klasa</h3>
-<p>Identyfikator id ma pewne ograniczenie — w dokumencie może znajdować
-się tylko jeden element z identyfikatorem o danej wartości. Jeśli chcemy
-w pewien sposób wyróżnić kilka elementów możemy im nadać klasę (lub
-klasy) przy pomocy atrybutu <strong>class</strong>.</p>
+<p>Identyfikator id ma pewne ograniczenie — <span style="text-decoration:underline">w dokumencie</span> powinien znajdować
+się tylko jeden element z identyfikatorem o danej wartości (niezależnie
+od jego typu). Jeśli chcemy w pewien sposób wyróżnić kilka elementów
+możemy im nadać klasę (lub klasy) przy pomocy atrybutu
+<strong>class</strong>.</p>
 <p>Np.</p>
 <pre><code>&lt;ul id=&quot;mustsee&quot;&gt;
     &lt;li class=&quot;first&quot;&gt;About time&lt;/li&gt;
@@ -219,8 +221,9 @@ klasy) przy pomocy atrybutu <strong>class</strong>.</p>
 &lt;/ul&gt;
 
 &lt;p class=&quot;new&quot;&gt;To jest nowość!&lt;/p&gt;</code></pre>
-<p>Dany element może mieć kilka klas (oddzielonych spacjami). Kolejność
-wymienionych klas nie ma znaczenia.</p>
+<p>Dany element może mieć maksymalnie jedno id oraz kilka klas
+(oddzielonych spacjami). Kolejność wymienionych klas nie ma
+znaczenia.</p>
 <p>Selektory wykorzystujące klasy wyglądają następująco:</p>
 <ul>
 <li>Dowolny element z klasą <em>new</em> ma być czerwony:</li>

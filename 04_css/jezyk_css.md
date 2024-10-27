@@ -158,7 +158,7 @@ ul#references {
 
 ### Klasa
 
-Identyfikator id ma pewne ograniczenie — w dokumencie może znajdować się tylko jeden element z identyfikatorem o danej wartości. Jeśli chcemy w pewien sposób wyróżnić kilka elementów możemy im nadać klasę (lub klasy) przy pomocy atrybutu **class**.
+Identyfikator id ma pewne ograniczenie — <span style="text-decoration:underline">w dokumencie</span> powinien znajdować się tylko jeden element z identyfikatorem o danej wartości (niezależnie od jego typu). Jeśli chcemy w pewien sposób wyróżnić kilka elementów możemy im nadać klasę (lub klasy) przy pomocy atrybutu **class**.
 
 Np.
 
@@ -173,7 +173,7 @@ Np.
 <p class="new">To jest nowość!</p>
 ```
 
-Dany element może mieć kilka klas (oddzielonych spacjami). Kolejność wymienionych klas nie ma znaczenia.
+Dany element może mieć maksymalnie jedno id oraz kilka klas (oddzielonych spacjami). Kolejność wymienionych klas nie ma znaczenia.
 
 Selektory wykorzystujące klasy wyglądają następująco:
 
