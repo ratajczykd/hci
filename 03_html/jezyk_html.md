@@ -11,7 +11,7 @@ output:
 
 ## Czym jest HTML5 i co znaczą znaczniki?
 
-HTML (ang. *HyperText Markup Language*) jest językiem opisu struktury zawartości strony internetowej. Opisywanie struktury oznacza, że mając daną treść strony, umieszczamy jej fragmenty między odpowiednimi znacznikami, przekazującymi przeglądarce internetowej informację, że dany fragment treści jest np. nagłówkiem, paragrafem tekstu, odnośnikiem itp. Używając tej informacji przeglądarka odpowiednio wyświetla poszczególne elementy strony.
+HTML (ang. *HyperText Markup Language*) - Hipertekstowy Język Znaczników - jest językiem opisu struktury zawartości strony internetowej. Opisywanie struktury oznacza, że mając daną treść strony, umieszczamy jej fragmenty między odpowiednimi znacznikami, przekazującymi przeglądarce internetowej informację, że dany fragment treści jest np. nagłówkiem, paragrafem tekstu, odnośnikiem itp. Używając tej informacji przeglądarka odpowiednio wyświetla poszczególne elementy strony.
 
 Dla przykładu: dany tekst...
 
