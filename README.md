@@ -67,13 +67,14 @@ Wymagania projektu:
 4. Przygotowanie raportu z projektu zawierającego typowe elementy raportu: opis zadania, wybrane metody, opis analizy i uzyskanych wyników, opis błędów, które się pojawiły, oraz możliwych ulepszeń.
 
 ### Szczegóły dotyczące projektu:
-Na zajęciach nr 10 i 11 będą Państwo zbierać dane do projektu. Do tego czasu proszę przygotować program wyświetlający litery alfabetu w pętli (warty 2 punkty). Program należy przesłać na 4 dni przed datą zbierania danych.
+Na zajęciach nr 10 i 11 będą Państwo zbierać dane do projektu. Na te zajęcia należy przygotować program wyświetlający litery alfabetu w pętli (warty 2 punkty). Program należy przesłać na 4 dni przed datą zbierania danych.
 
+### Opis programu wyświetlającego litery
 W najprostszej formie litery mogą być wyświetlane w wierszu poleceń lub w Jupyterze (max 1 pkt), a w bardziej rozbudowanej formie można zastosować interfejs graficzny przy użyciu np. Tkintera, Pygame'a albo Psychopy (max 2 pkt). Program (Wyświetlacz Liter) powinien wyświetlać kolejno wszystkie litery alfabetu przez określony czas (np. każda litera przez 1 sekundę) i po zakończeniu alfabetu rozpoczynać od nowa. Pętla musi działać do momentu ręcznego wyłączenia programu. 
 
 Kluczowe wymaganie: Program musi rejestrować momenty, w których były wyświetlane konkretne litery (np. że litera "F" była wyświetlana między 6 a 7 sekundą), ponieważ informacje te będą potrzebne do zsynchronizowania z czasami wykrycia mrugnięć w trybie offline. W programie musi znaleźć się linijka kodu, która zapisuje literę oraz jej czas wyświetlenia do pliku litery_czas.txt w następujący sposób:
 
-```litera = 'A'
+```litera = 'A' ## "litera" to zmienna, która zawiera informację o wyświetlanej na ekranie literze
 with open("litery_czas.txt", "a") as myfile:
     myfile.write(litera + ', ' + str(time.time()) + '\n')
 ```
