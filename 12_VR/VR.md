@@ -1,7 +1,14 @@
+# Charakterystyka HCI w VR
+Unikalne cechy interakcji w VR:
+* Trójwymiarowość interfejsu
+* Immersja i presence
+* Bezpośrednie i pośrednie interakcje
+* Multisensoryczność
+
 # *Presence* i immersja
 
-* Presense - state of the subjective sense of being physically in a computer mediated environment (the illusion of reality) (Schubert et al., 2001; Sanchez-Vives & Slater,2005)
-* Immersja - experience of being engaged with a environment. It is connected to notions like cognitive absorption and flow, and concerns the state of the user playing a game or performing a task (Jennett et all., 2008)
+* Presense - state of the subjective sense of being physically in a computer mediated environment (the illusion of reality) (Schubert et al., 2001; Sanchez-Vives & Slater, 2005)
+* Immersja - experience of being engaged with a environment. It is connected to notions like cognitive absorption and flow, and concerns the state of the user playing a game or performing a task (Jennett et al., 2008)
 
 
 # Typy interakcji w VR 
@@ -26,7 +33,7 @@
 	![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41598-019-45422-6/MediaObjects/41598_2019_45422_Fig1_HTML.png)
 * Wskazywanie 
 	* Wskaźnik laserowy
-	![](https://docs.unrealengine.com/4.27/Images/BuildingWorlds/VRMode/Controls/selectionmode.jpg)
+	![https://docs.unrealengine.com/4.27/Images/BuildingWorlds/VRMode/Controls/selectionmode.jpg](https://docs.unrealengine.com/4.27/Images/BuildingWorlds/VRMode/Controls/selectionmode.jpg)
 * Metody pośrednie
 	* Wirtualny touchpad
 	* Wirtualny pad
@@ -40,14 +47,15 @@
 1. Fizyczne kontuzje. 
 2. Zmęczenie oczu. 
 3. Fizyczne zmęczenie. 
-4. Choroba lokomocyjna. 
+4. Choroba lokomocyjna.
+5. Konflikt sensoryczny.
 
 ## Zadanie <img src="../images/pencil.png" width="20" align="left">
 
 **Grupa 1** <br>
 Rozważcie typy interakcji pod kątem intuicyjności, użyteczności i komfortu użytkowania. Jak można poprawić te aspekty? <br>
 **Grupa 2** <br>
-Rozważcie typy interakcji pod kątem immersji i *presence*. Jak można poprawić te aspekty? 
+Rozważcie typy interakcji pod kątem immersji i *presence*. Jak można poprawić te aspekty? Jak można zwiększyć te aspekty minimalizując jednocześnie dyskomfort? 
 
 
 
