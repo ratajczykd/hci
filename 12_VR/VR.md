@@ -55,7 +55,7 @@ Unikalne cechy interakcji w VR:
 **Grupa 1** <br>
 Rozważcie typy interakcji pod kątem intuicyjności, użyteczności i komfortu użytkowania. Jak można poprawić te aspekty? <br>
 **Grupa 2** <br>
-Rozważcie typy interakcji pod kątem immersji i *presence*. Jak można poprawić te aspekty? Jak można zwiększyć te aspekty minimalizując jednocześnie dyskomfort? 
+Rozważcie typy interakcji pod kątem immersji i *presence*. Jak można poprawić te aspekty minimalizując jednocześnie dyskomfort? 
 
 
 
