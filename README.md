@@ -24,11 +24,13 @@ Kurs składa się z czterech części:
 
 Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub w domu, **wejściówek** oraz na podstawie **projektu** dotyczącego interfejsów mózg komputer.
 
-### Formularz na drugie zajęcia z tematu ,,Elementy Human-Robot Interaction'': 
-https://forms.office.com/e/wYgYP8tBFK
 
 
  **Uwaga** :office: Zgodnie z regulaminem studiów obowiązują dwie nieobecności, niezależnie od tego, czy są one usprawiedliwione, czy nie. :blue_book:
+
+ 
+### Formularz na drugie zajęcia z tematu ,,Elementy Human-Robot Interaction'': 
+https://forms.office.com/e/wYgYP8tBFK
 
 ## Terminarz zajęć
 | lp. | Temat | Data (czwartek/piątek) | Zadanie | Liczba punktów |						
