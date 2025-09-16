@@ -47,7 +47,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |13.|	Elementy Human-Robot Interaction 2	| 15/16.01.26 |	-	|	-	|
 |14.| Elementy Human-Robot Interaction 3 | 22/23.01.26 | - | - |
 |14.|	Poprawka	| 30.01.25 |	-	|	-	|
-|   |   |   | Wejściówki | 7 |
+|   |   |   | Wejściówki | 9 |
 |   |	  |  	| Projekt | 12 |
 |  	|	  |  	| **Suma** | **30** |
 
