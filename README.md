@@ -32,8 +32,8 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 ## Terminarz zajęć
 | lp. | Temat | Data (czwartek/piątek) | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
-|1.|	Liczby binarne | 2/3.10.25	|	-	|		|
-|2.|	Bramki logiczne	| 9/10.10.25 |	Praca domowa	|	2	|
+|1.|	Liczby binarne | 2/3.10.25	|	Praca domowa	|		|
+|2.|	Bramki logiczne	| 9/10.10.25 |	-	|	2	|
 |3.|	HTML	| 16/17.10.25 |	-	|	-	| 
 |4.|	CSS	| 23/24.10.25 |	-	|	- |  
 |5.|	Analiza sygnałów 1 | 6/7.11.25	|	Arkusz z zajęć	|	2	|
