@@ -32,21 +32,21 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 ## Terminarz zajęć
 | lp. | Temat | Data (czwartek/piątek) | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
-|1.|	Liczby binarne | 3/4.10.24	|	-	|		|
-|2.|	Bramki logiczne	| 10/11.10.24 |	Praca domowa	|	2	|
-|3.|	HTML	| 17/18.10.24 |	-	|	-	| 
-|4.|	CSS	| 24/25.10.24 |	-	|	- |  
-|5.|	Analiza sygnałów 1 | 7/8.11.24	|	Arkusz z zajęć	|	2	|
-|6.|	Analiza sygnałów 2	| 14/15.11.24 |	Praca domowa	|	2 |
-|7.| Wykrywanie sygnału EEG | 21/22.11.24 | - | - |
-|8.|	Potencjały wywołane	|28/29.11.24 |	Arkusz z zajęć	|	2	|
-|9.| Wykrywanie mrugnięć	| 5/6.12.24 | 	|	-	|
-|10.|	Zbieranie danych do projektu	|12/13.12.24 |	-	|	-	|
-|11.|	Zbieranie danych do projektu 2	| 19/20.12.24 |	-	| -	|
-|12.|	VR	| 9/10.01.25 |	-	| -	|
-|13.|	Elementy Human-Robot Interaction	| 16/17.01.25 |	Praca na zajęciach/domowa	|	3	|
-|14.|	Elementy Human-Robot Interaction 2	| 23/24.01.25 |	-	|	-	|
-|15.|	Poprawka	| 30/31.01.25 |	-	|	-	|
+|1.|	Liczby binarne | 2/3.10.25	|	-	|		|
+|2.|	Bramki logiczne	| 9/10.10.25 |	Praca domowa	|	2	|
+|3.|	HTML	| 16/17.10.25 |	-	|	-	| 
+|4.|	CSS	| 23/24.10.25 |	-	|	- |  
+|5.|	Analiza sygnałów 1 | 6/7.11.25	|	Arkusz z zajęć	|	2	|
+|6.|	Analiza sygnałów 2	| 13/14.11.25 |	Praca domowa	|	2 |
+|7.| Wykrywanie sygnału EEG | 20/21.11.25 | - | - |
+|8.|	Potencjały wywołane	|27/28.11.25 |	Arkusz z zajęć	|	2	|
+|9.| Wykrywanie mrugnięć	| 4/5.12.25 | 	|	-	|
+|10.|	Zbieranie danych do projektu	|11/12.12.25 |	-	|	-	|
+|11.|	Zbieranie danych do projektu 2	| 18/19.12.25 |	-	| -	|
+|12.|	Elementy Human-Robot Interaction	| 8/9.01.26 |	Praca na zajęciach/domowa	|	3	|
+|13.|	Elementy Human-Robot Interaction 2	| 15/16.01.26 |	-	|	-	|
+|14.| Elementy Human-Robot Interaction 3 | 22/23.01.26 | - | - |
+|14.|	Poprawka	| 30.01.25 |	-	|	-	|
 |   |   |   | Wejściówki | 7 |
 |   |	  |  	| Projekt | 12 |
 |  	|	  |  	| **Suma** | **30** |
