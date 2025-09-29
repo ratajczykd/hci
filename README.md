@@ -7,9 +7,9 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### :e-mail: Kontakt do prowadzących
 
- * mgr Agnieszka Smolnicka, agnieszka.smolnicka[at]amu.edu.pl, dyżur: wtorek 14:00-15:00, pokój 110
+ * mgr Agnieszka Smolnicka, agnieszka.smolnicka[at]amu.edu.pl, dyżur: poniedziałek 14:00-15:00, pokój 110
  * mgr Dawid Ratajczyk, dawid.ratajczyk[at]amu.edu.pl,  dyżur: środa 13:30-14:30, pokój 110
- * mgr Aleksandra Wasielewska, aleksandra.wasielewska[at]amu.edu.pl, dyżur: środa 14:30-15:30, pokój 110
+ * dr Aleksandra Wasielewska, aleksandra.wasielewska[at]amu.edu.pl, dyżur: środa 14:30-15:30, pokój 110
  * dr inż. Marcin Jukiewicz (koordynator), marcin.jukiewicz[at]amu.edu.pl
 
 
@@ -67,7 +67,7 @@ Wymagania projektu:
 4. Przygotowanie raportu z projektu zawierającego typowe elementy raportu: opis zadania, wybrane metody, opis analizy i uzyskanych wyników, opis błędów, które się pojawiły, oraz możliwych ulepszeń.
 
 ### Szczegóły dotyczące projektu:
-Na zajęciach nr 10 i 11 będą Państwo zbierać dane do projektu. Na te zajęcia należy przygotować program wyświetlający litery alfabetu w pętli (warty 2 punkty). Program należy przesłać na 4 dni przed datą zbierania danych.
+Na zajęciach nr 9 i 10 będą Państwo zbierać dane do projektu. Na te zajęcia należy przygotować program wyświetlający litery alfabetu w pętli (warty 2 punkty). Program należy przesłać na 4 dni przed datą zbierania danych.
 
 ### Opis programu wyświetlającego litery
 W najprostszej formie litery mogą być wyświetlane w wierszu poleceń lub w Jupyterze (max 1 pkt), a w bardziej rozbudowanej formie można zastosować interfejs graficzny przy użyciu np. Tkintera, Pygame'a albo Psychopy (max 2 pkt). Program (Wyświetlacz Liter) powinien wyświetlać kolejno wszystkie litery alfabetu przez określony czas (np. każda litera przez 1 sekundę) i po zakończeniu alfabetu rozpoczynać od nowa. Pętla musi działać do momentu ręcznego wyłączenia programu. 
@@ -111,7 +111,6 @@ Deadline: **12 stycznia**
 ### Instalacja Jupyter notebook:
 W konsoli:
 ```
- pip install jupyterlab
  pip install notebook
 ```
 Aby uruchomić notebook wpisujemy w konsoli:
