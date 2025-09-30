@@ -117,12 +117,12 @@ Aby uruchomić notebook wpisujemy w konsoli:
 ```
 jupyter notebook
 ```
-lub (jeśli nie mamy polecenia "jupyter")
+lub (bardziej skuteczne, jeśli nie mamy polecenia "jupyter")
 ```
 python -m notebook
 ```
 
-Link do środowiska Dziobak: http://150.254.90.119 \
+Środowisko Dziobak: http://150.254.90.119 \
 Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
 
 
