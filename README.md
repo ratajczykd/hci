@@ -122,4 +122,7 @@ lub (jeśli nie mamy polecenia "jupyter")
 python -m notebook
 ```
 
+Link do środowiska Dziobak: http://150.254.90.119
+Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
+
 
