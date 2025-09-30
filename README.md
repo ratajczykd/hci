@@ -117,7 +117,7 @@ Aby uruchomić notebook wpisujemy w konsoli:
 ```
 jupyter notebook
 ```
-lub 
+lub (jeśli nie mamy polecenia "jupyter")
 ```
 python -m notebook
 ```
