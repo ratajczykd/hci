@@ -1,8 +1,0 @@
-1. Umieścić dynksa dołączonego do płytki Ganglion w porcie USB. 
-2. Podmienić adres mac używanego Ganglionu (zmienna mac_adress) w pliku 'blinks_tester.py' ORAZ 'data_collector.py'. 
-3. Zamontować elektrody - na czole do złącza nr 1, dwie na uszach do złącz 'REF' i 'D_G'. 
-4. Włączyć płytkę Gangion. 
-5. Sprawdzić poprawne podłączenie elektrod przy pomocy programu (wpisać 'python blinks_tester.py' w terminalu). 
-6. Jeśli mrugnięcia korespondują z komunikatami 'blinks', rozpocząć zbieranie danych. 
-7. Wpisać 'python data_collector.py' w terminalu. 
-8. Włączyć program wyświetlający litery. 
