@@ -109,11 +109,11 @@ Deadline: **12 stycznia**
 * Podpisz się na arkuszu 
 
 ### Instalacja Jupyter notebook:
-W konsoli:
+W wierszu poleceń:
 ```
  pip install notebook
 ```
-Aby uruchomić notebook wpisujemy w konsoli:
+Aby uruchomić notebook wpisujemy w wierszu poleceń:
 ```
 jupyter notebook
 ```
