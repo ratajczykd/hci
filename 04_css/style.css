@@ -2,7 +2,7 @@
 /* selektor = znacznik */
 
 body {
-    background-color: #FF9900;                                                  /* kolor tla */
+    background-color: #FF9900;                                                /* kolor tla */
     /*background-image: url('dziobak.png');*/                                   /* obrazek w tle */
     /*background: #FF9900 url('dziobak.png') no-repeat top right;*/             /* kolor tla i obrazek w tle w prawym gornym rogu (nie na calosci) */
 }
@@ -14,8 +14,8 @@ p {
     font-weight: bold;                                                          /* styl czcionki - pogrubienie */
     text-align: justify;                                                        /* wyrownanie tekstu - wyjustowany */
     text-decoration: underline;                                                 /* dekoracje tekstu - podkreslenie */
-    color: yellow;                                                              /* kolor czcionki */
-    background-color: dodgerblue;                                               /* kolor tla za tekstem */
+    color: yellow;                                                            /* kolor czcionki */
+    background-color: dodgerblue;                                             /* kolor tla za tekstem */
 }
 
 h1 {                                                                            
@@ -136,11 +136,11 @@ tr:hover {                                                                      
 /* zmiana własności blokowych */
 
 a {                                                                             
-    display:block;                                                                /* zmiana elementu z typu liniowego na blokowy */
+    display:block;                                                              /* zmiana elementu z typu liniowego na blokowy */
 }
 
 p {
-    display:inline;                                                               /* zmiana elementu z typu blokowego na liniowy */
+    display:inline;                                                             /* zmiana elementu z typu blokowego na liniowy */
 }
 
 
