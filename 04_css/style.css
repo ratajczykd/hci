@@ -121,7 +121,7 @@ a:hover {                                                                       
 
 a:active {                                                                        /* linki, ktore sa wlasnie klikane */
     color: olive;
-    background-color: transparent;                                              /* brak tla */
+    background-color: transparent;                                                /* brak tla */
 }
 
 a:visited {                                                                       /* linki odwiedzonych (po kliknieciu) */                                                        
@@ -136,11 +136,11 @@ tr:hover {                                                                      
 /* zmiana własności blokowych */
 
 a {                                                                             
-    display:block;                                                              /* zmiana elementu z typu liniowego na blokowy */
+    display:block;                                                                /* zmiana elementu z typu liniowego na blokowy */
 }
 
 p {
-    display:inline;                                                             /* zmiana elementu z typu blokowego na liniowy */
+    display:inline;                                                               /* zmiana elementu z typu blokowego na liniowy */
 }
 
 
