@@ -57,38 +57,99 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 
 <hr/>
 
-## Projekt
-Zadaniem projektu jest stworzenie prostego interfejsu offline typu "speller" opartego na mruganiu, realizowanego w grupach 2-osobowych.
+# 🧠 Projekt HCI: Analiza danych EMG (mrugnięcia, offline)
 
-Wymagania projektu:
-1. Przygotowanie programu wyświetlającego litery alfabetu.
-2. Zbieranie danych osoby, która przy pomocy mrugania sygnalizuje wybór danej litery (osoba powinna zapisać w ten sposób jakieś słowo). Kod do zbierania danych dostarcza prowadzący.
-3. Przygotowanie kodu, który odszyfrowuje wybrane litery na podstawie zebranych danych z mrugnięć (detekcja skurczów mięśni czoła przy użyciu elektrody).
-4. Przygotowanie raportu z projektu zawierającego typowe elementy raportu: opis zadania, wybrane metody, opis analizy i uzyskanych wyników, opis błędów, które się pojawiły, oraz możliwych ulepszeń.
+## Opis projektu
+Celem projektu jest zrozumienie, jak sygnały mięśniowe związane z mrugnięciem mogą być wykorzystywane w komunikacji człowiek–komputer lub w analizie reakcji użytkownika na bodźce.  
+Dane EMG będą zbierane **offline** (oddzielne logi mrugnięć i bodźców), a analiza zostanie wykonana w środowisku **Python / Jupyter Notebook**.  
 
-### Szczegóły dotyczące projektu:
-Na zajęciach nr 9 i 10 będą Państwo zbierać dane do projektu. Na te zajęcia należy przygotować program wyświetlający litery alfabetu w pętli (warty 2 punkty). Program należy przesłać na 4 dni przed datą zbierania danych.
+Pracujecie w **zespołach 2-osobowych** i wybieracie **jeden z dwóch wariantów projektu**.
 
-### Opis programu wyświetlającego litery
-W najprostszej formie litery mogą być wyświetlane w wierszu poleceń lub w Jupyterze (max 1 pkt), a w bardziej rozbudowanej formie można zastosować interfejs graficzny przy użyciu np. Tkintera, Pygame'a albo Psychopy (max 2 pkt). Program (Wyświetlacz Liter) powinien wyświetlać kolejno wszystkie litery alfabetu przez określony czas (np. każda litera przez 1 sekundę) i po zakończeniu alfabetu rozpoczynać od nowa. Pętla musi działać do momentu ręcznego wyłączenia programu. 
+---
 
-Kluczowe wymaganie: Program musi rejestrować momenty, w których były wyświetlane konkretne litery (np. że litera "F" była wyświetlana między 6 a 7 sekundą), ponieważ informacje te będą potrzebne do zsynchronizowania z czasami wykrycia mrugnięć w trybie offline. W programie musi znaleźć się linijka kodu, która zapisuje literę oraz jej czas wyświetlenia do pliku litery_czas.txt w następujący sposób:
+## 🅰️ Wariant 1 — *Speller offline*
 
-```litera = 'A' ## "litera" to zmienna, która zawiera informację o wyświetlanej na ekranie literze
-with open("litery_czas.txt", "a") as myfile:
-    myfile.write(litera + ', ' + str(time.time()) + '\n')
+### Cel
+Odtworzenie słowa wymruganego przez użytkownika na podstawie dwóch plików:
+- `litery_czas.txt` – zapis momentów wyświetlania liter  
+- `mrugniecia.txt` – zapis momentów wykrycia mrugnięć  
+
+Należy dopasować momenty mrugnięć do liter i sprawdzić, jakie słowo zostało „wymrugane”.  
+Projekt koncentruje się na **analizie danych i dekodowaniu offline** (bez synchronizacji online).
+
+### Co przygotować przed zbieraniem danych
+Do zajęć **4–5 grudnia 2025 r.** należy przygotować **program do wyświetlania liter**, który:
+- wyświetla kolejne litery alfabetu w pętli (np. co 1 sekundę; z uwzględnionymi przerwami na swobodne mruganie) 
+- zapisuje literę i czas jej wyświetlenia do pliku `litery_czas.txt`:
+```python
+with open("litery_czas.txt", "a") as f:
+    f.write(f"{litera},{time.time():.6f}\n")
 ```
 
-Po zebraniu danych należy przygotować kod (w arkuszu Jupyter Notebook), który wykrywa mrugnięcia i odszyfrowuje, jakie litery zostały "wymrugane" przez osobę. Ważne jest, aby kod działał poprawnie, natomiast nie ma wymogu poprawnego zdekodowania całego słowa.
+---
 
-Deadline: **12 stycznia**
+## 🅱️ Wariant 2 — *Mruganie w odpowiedzi na różne bodźce*
 
-### Punktacja projektu
-* Interfejs graficzny -- 2pkt
-* Kod do wykrywania mrugnięć -- 2pkt
-* Synchronizacja zadań -- 1pkt
-* Poprawność analizy i wyników -- 4pkt
-* Raport -- 3pkt
+### Cel
+Sprawdzenie, czy ludzie mrugają inaczej w zależności od rodzaju prezentowanych bodźców (np. neutralnych, emocjonalnych, zaskakujących).
+
+Podczas zbierania danych program wyświetla bodźce (obrazy, słowa itp.) i zapisuje:
+- `bodzce_czas.txt` – czasy wyświetlenia i kategorię bodźca  
+- `mrugniecia.txt` – czasy wykrycia mrugnięć, np.:
+  
+```python
+with open("bodzce_czas.txt", "a") as f:
+    f.write(f"{kategoria},{bodziec},{time.time():.6f}\n")
+```
+
+Analiza offline polega na porównaniu częstości lub rytmu mrugnięć między kategoriami bodźców.
+
+### Co przygotować przed zbieraniem danych
+Do zajęć **4–5 grudnia 2025 r.** należy przygotować **program do wyświetlania bodźców**, który:
+- wyświetla serię obrazków, słów lub innych bodźców w różnych kategoriach  
+- zapisuje nazwę bodźca, jego kategorię i czas wyświetlenia do pliku `bodzce_czas.txt`
+
+---
+
+## 🧾 Punktacja (maks. 12 pkt)
+
+| Element | Punkty | Opis |
+|----------|---------|------|
+| Wczytanie i wizualizacja danych | 2 | Poprawne wczytanie i podstawowa eksploracja |
+| Analiza główna (dekodowanie / porównanie) | 4 | Kluczowa część projektu |
+| Analiza błędów lub porównanie wariantów | 3 | Próba poprawy lub test alternatyw |
+| Refleksja i raport | 3 | Interpretacja wyników i wnioski |
+
+---
+
+## 📅 Terminy
+
+- **4–5 grudnia 2025 r.** – przygotowanie programu (liter lub bodźców) na zajęcia z rejestracją danych  
+- **11 stycznia 2026 r.** – termin oddania projektu
+
+---
+
+## 📦 Pliki do przesłania
+
+Wysyłacie w jednej spakowanej paczce (`.zip`):
+
+1. `projekt.ipynb` (Jupyter Notebook) **i** `projekt.pdf` (raport)  
+2. Dane:  
+   - `litery_czas.txt` **lub** `bodzce_czas.txt` (w zależności od wariantu)  
+   - `mrugniecia.txt`  
+3. Program użyty do prezentacji:  
+   - `wyswietlacz_liter.py` **lub** `bodzce.py`  
+
+---
+
+## 💡 Wskazówki
+
+- Do dopasowania czasów mrugnięć i bodźców można użyć funkcji łączenia danych według najbliższego czasu (np. pd.merge_asof()).  
+- Do wizualizacji wyników przydadzą się biblioteki: `matplotlib` lub `seaborn`.  
+- Raport powinien krótko opisywać przebieg pracy, zastosowane metody, uzyskane wyniki oraz wnioski (plik pdf).
+
+
+<hr>
 
 ### Kryteria oceny z przedmiotu
 
