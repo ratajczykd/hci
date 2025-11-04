@@ -151,7 +151,7 @@ Wysyłacie w jednej spakowanej paczce (`.zip`):
 
 <hr>
 
-### Kryteria oceny z przedmiotu
+# Kryteria oceny z przedmiotu
 
 | Ocena | L. punktów |
 |------------------------|:---------:|
