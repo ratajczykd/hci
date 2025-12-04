@@ -40,7 +40,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |6.|	Analiza sygnałów 2	| 13/14.11.25 |	Praca domowa	|	2 |
 |7.| Analiza sygnałów 3 | 20/21.11.25 | - | - |
 |8.|	Wykrywanie mrugnięć	|27/28.11.25 |	-	|	-	|
-|9.| Zbieranie danych do projektu	| 4/5.12.25 | 	|	-	|
+|9.| Zbieranie danych do projektu	| 4/5.12.25 | -	|	-	|
 |10.|	Zbieranie danych do projektu 2	|11/12.12.25 |	-	|	-	|
 |11.|	Praca nad projektem	| 18/19.12.25 |	-	| -	|
 |12.|	Elementy Human-Robot Interaction	| 8/9.01.26 |	Praca na zajęciach/domowa	|	3	|
