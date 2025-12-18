@@ -117,7 +117,7 @@ Do zajęć **4–5 grudnia 2025 r.** należy przygotować **program do wyświetl
 |----------|---------|------|
 | Wczytanie i wizualizacja danych | 2 | Poprawne wczytanie i podstawowa eksploracja |
 | Analiza główna (dekodowanie / porównanie) | 4 | Kluczowa część projektu |
-| Analiza błędów lub porównanie wariantów | 3 | Próba poprawy lub test alternatyw |
+| Analiza błędów lub porównanie wariantów | 3 | W przypadku błędów: próba poprawy, test alternatyw |
 | Refleksja i raport | 3 | Interpretacja wyników i wnioski |
 
 ---
