@@ -61,8 +61,6 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 
 Więcej informacji wkrótce
 
----
-
 <hr>
 
 # Kryteria oceny z przedmiotu
