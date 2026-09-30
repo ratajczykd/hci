@@ -32,21 +32,21 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 ## Terminarz zajęć
 | lp. | Temat | Data (czwartek/piątek) | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
-|1.|	Liczby binarne | 2/3.10.25	|	Praca domowa	|	2	|
-|2.|	Bramki logiczne	| 9/10.10.25 |	-	|	-	|
-|3.|	HTML	| 16/17.10.25 |	-	|	-	| 
-|4.|	CSS	| 23/24.10.25 |	-	|	- |  
-|5.|	Analiza sygnałów 1 | 6/7.11.25	|	Arkusz z zajęć	|	2	|
-|6.|	Analiza sygnałów 2	| 13/14.11.25 |	Praca domowa	|	2 |
-|7.| Analiza sygnałów 3 | 20/21.11.25 | - | - |
-|8.|	Wykrywanie mrugnięć	|27/28.11.25 |	-	|	-	|
-|9.| Zbieranie danych do projektu	| 4/5.12.25 | -	|	-	|
-|10.|	Zbieranie danych do projektu 2	|11/12.12.25 |	-	|	-	|
-|11.|	Praca nad projektem	| 18/19.12.25 |	-	| -	|
-|12.|	Elementy Human-Robot Interaction	| 8/9.01.26 |	Praca na zajęciach/domowa	|	3	|
-|13.|	Elementy Human-Robot Interaction 2	| 15/16.01.26 |	-	|	-	|
-|14.| Elementy Human-Robot Interaction 3 | 22/23.01.26 | - | - |
-|15.|	Poprawka	| 30.01.26 |	-	|	-	|
+|1.|	Liczby binarne | 2/5.10.26	|	Praca domowa	|	2	|
+|2.|	Bramki logiczne	| 9/13.10.26 |	-	|	-	|
+|3.|	HTML	| 16/20.10.26 |	-	|	-	| 
+|4.|	CSS	| 23/27.10.26 |	-	|	- |  
+|5.| Markdown | 30.10/3.11.26 | Praca na zajęciach/domowa | 2 |
+|6.|	Elementy Human-Robot Interaction	| 6/10.11.26 |	Praca na zajęciach/domowa	|	3	|
+|7.|	Elementy Human-Robot Interaction 2	| 13/17.11.26 |	-	|	-	|
+|8.| Elementy Human-Robot Interaction 3 | 20/24.11.26 | - | - |
+|9.|	Analiza sygnałów 1 | 27.11/1.12.26	|	- |	-	|
+|10.|	Analiza sygnałów 2	| 4/8.12.26 |	Praca na zajęciach/domowa	|	2 |
+|11.| Analiza sygnałów 3 | 11/15.12.26 | - | - |
+|12.|	Wykrywanie mrugnięć	|18/22.12.26 |	-	|	-	|
+|13.| Zbieranie danych do projektu	| 8/12.01.27 | -	|	-	|
+|14.|	Praca nad projektem	| 15/19.01.27 |	-	| -	|
+|15.|	Poprawka	| 22/26.01.27 |	-	|	-	|
 |   |   |   | Wejściówki | 9 |
 |   |	  |  	| Projekt | 12 |
 |  	|	  |  	| **Suma** | **30** |
