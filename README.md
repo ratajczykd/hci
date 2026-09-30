@@ -7,9 +7,9 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
 ### :e-mail: Kontakt do prowadzących
 
- * zaj. 1-4: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mgr Agnieszka Smolnicka, `agnieszka.smolnicka[at]amu.edu.pl`, dyżur: pon. 14:00-15:00, pok. 110
- * zaj. 5-11: &nbsp;&nbsp;&nbsp; mgr Dawid Ratajczyk, `dawid.ratajczyk[at]amu.edu.pl`,  dyżur: śr. 12:00-13:00, pok. 110
- * zaj. 12-14: &nbsp;dr Aleksandra Wasielewska, `aleksandra.wasielewska[at]amu.edu.pl`, dyżur: czw. 13:30-15:30, pok. LBR
+ * zaj. 1-4: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mgr Agnieszka Smolnicka, `agnieszka.smolnicka[at]amu.edu.pl`, dyżur: wt. 15:15-16:15, pok. 110
+ * zaj. 5-11: &nbsp;&nbsp;&nbsp; dr Dawid Ratajczyk, `dawid.ratajczyk[at]amu.edu.pl`,  dyżur: n.d., pok. 110
+ * zaj. 12-14: &nbsp;dr Aleksandra Wasielewska, `aleksandra.wasielewska[at]amu.edu.pl`, dyżur: czw. 12:00-14:00, pok. LBR
  * wykład: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dr inż. Marcin Jukiewicz (koordynator), `marcin.jukiewicz[at]amu.edu.pl`
 
 
@@ -18,8 +18,8 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 Kurs składa się z czterech części:
  1. Elementy Computer Science
  2. Tworzenie stron internetowych
- 3. Analiza biosygnałów
- 4. Elementy Human-Robot Interaction
+ 3. Elementy Human-Robot Interaction
+ 4. Analiza biosygnałów
 
 
 Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub w domu, **wejściówek** oraz na podstawie **projektu** dotyczącego interfejsów mózg komputer.
