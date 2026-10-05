@@ -9,7 +9,7 @@ Przedmiot prowadzony jest dla studentów 2-ego roku kierunku kognitywistyka na U
 
  * zaj. 1-5: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mgr Agnieszka Smolnicka, `agnieszka.smolnicka[at]amu.edu.pl`, dyżur: wt. 15:15-16:15, pok. 110
  * zaj. 6-8: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dr Aleksandra Wasielewska, `aleksandra.wasielewska[at]amu.edu.pl`, dyżur: czw. 12:00-14:00, pok. LBR
- * zaj. 9-15: &nbsp;&nbsp;&nbsp; dr Dawid Ratajczyk, `dawid.ratajczyk[at]amu.edu.pl`,  dyżur: n.d., pok. LBR
+ * zaj. 9-15: &nbsp;&nbsp;&nbsp; dr Dawid Ratajczyk, `dawid.ratajczyk[at]amu.edu.pl`,  dyżur: czw. 12:00-14:00, pok. LBR
  * wykład: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dr inż. Marcin Jukiewicz (koordynator), `marcin.jukiewicz[at]amu.edu.pl`
 
 
