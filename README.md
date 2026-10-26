@@ -95,7 +95,7 @@ lub (bardziej skuteczne, jeśli nie mamy polecenia "jupyter")
 python -m notebook
 ```
 
-Środowisko Dziobak: http://150.254.90.119 \
-Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu.
+Środowisko Dziobak: [http://150.254.90.119](http://150.254.90.119:13120) \
+Logowanie za pomocą loginu z USOSa i hasła ustalonego przy pierwszym logowaniu (do Dziobaka).
 
 
