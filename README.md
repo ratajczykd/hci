@@ -36,7 +36,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |2.|	Bramki logiczne	| 9/13.10.26 |	-	|	-	|
 |3.|	HTML	| 16/20.10.26 |	-	|	-	| 
 |4.|	CSS	| 23/27.10.26 |	-	|	- |  
-|5.| Markdown | 30.10/3.11.26 | Praca na zajęciach/domowa | 2 |
+|5.| Markdown | 30.10/3.11.26 | Praca na zajęciach | 2 |
 |6.|	Elementy Human-Robot Interaction	| 6/10.11.26 |	Praca na zajęciach/domowa	|	3	|
 |7.|	Elementy Human-Robot Interaction 2	| 13/17.11.26 |	-	|	-	|
 |8.| Elementy Human-Robot Interaction 3 | 20/24.11.26 | - | - |
