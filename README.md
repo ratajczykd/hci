@@ -30,7 +30,7 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 
 
 ## Terminarz zajęć
-| lp. | Temat | Data (czwartek/piątek) | Zadanie | Liczba punktów |						
+| lp. | Temat | Data (piątek/wtorek) | Zadanie | Liczba punktów |						
 | --- |	------- | ----- | ------- | ----------- |					
 |1.|	Liczby binarne | 2/5.10.26	|	Praca domowa	|	2	|
 |2.|	Bramki logiczne	| 9/13.10.26 |	-	|	-	|
