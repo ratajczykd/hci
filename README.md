@@ -42,10 +42,10 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 |8.| Elementy Human-Robot Interaction 3 | 20/24.11.26 | - | - |
 |9.|	Analiza sygnałów 1 | 27.11/1.12.26	|	- |	-	|
 |10.|	Analiza sygnałów 2	| 4/8.12.26 |	Praca na zajęciach/domowa	|	2 |
-|11.| Analiza sygnałów 3 | 11/15.12.26 | - | - |
-|12.|	Wykrywanie mrugnięć	|18/22.12.26 |	-	|	-	|
-|13.| Zbieranie danych do projektu	| 8/12.01.27 | -	|	-	|
-|14.|	Praca nad projektem	| 15/19.01.27 |	-	| -	|
+|11.| Wykrywanie mrugnięć | 11/15.12.26 | - | - |
+|12.|	Zbieranie danych do projektu	|18/22.12.26 |	-	|	-	|
+|13.| Praca nad projektem	| 8/12.01.27 | -	|	-	|
+|14.|	ERP	| 15/19.01.27 |	-	| -	|
 |15.|	Poprawka	| 22/26.01.27 |	-	|	-	|
 |   |   |   | Wejściówki | 9 |
 |   |	  |  	| Projekt | 12 |
