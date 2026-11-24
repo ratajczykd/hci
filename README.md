@@ -59,8 +59,61 @@ Oceny wystawiane są na podstawie **zadań** wykonywanych w trakcie zajęć lub 
 
 # 🧠 Projekt HCI: Analiza danych EMG (mrugnięcia, offline)
 
-Więcej informacji wkrótce
+*Speller offline*
 
+### Cel
+Odtworzenie słowa wymruganego przez użytkownika na podstawie dwóch plików:
+- `litery_czas.txt` – zapis momentów wyświetlania liter  
+- `mrugniecia.txt` – zapis momentów wykrycia mrugnięć  
+
+Należy dopasować momenty mrugnięć do liter i sprawdzić, jakie słowo zostało „wymrugane”.  
+Projekt koncentruje się na **analizie danych i dekodowaniu offline**.
+
+### Co przygotować przed zbieraniem danych
+Do zajęć **18 i 22 grudnia 2025 r.** należy przygotować **program do wyświetlania liter**, który:
+- wyświetla kolejne litery alfabetu w pętli (np. co 1 sekundę; z uwzględnionymi przerwami na swobodne mruganie) 
+- zapisuje literę i czas jej wyświetlenia do pliku `litery_czas.txt`:
+```python
+with open("litery_czas.txt", "a") as f:
+    f.write(f"{litera},{time.time():.6f}\n")
+```
+### 🧾 Punktacja (maks. 12 pkt)
+
+| Element | Punkty |
+|----------|---------|
+| Zebranie danych | 1 | 
+| Wczytanie i wizualizacja danych | 3 |
+| Analiza główna (dekodowanie) | 4 | 
+| Analiza błędów | 1 | 
+| Refleksja i raport | 3 | 
+
+---
+
+## 📅 Terminy
+
+- **18 i 22 grudnia 2026 r.** – przygotowanie programu (liter lub bodźców) na zajęcia z rejestracją danych  
+- **15 stycznia 2027 r.** – termin oddania projektu
+
+---
+
+## 📦 Pliki do przesłania
+
+Wysyłacie w jednej spakowanej paczce (`.zip`):
+
+1. `projekt.ipynb` (Jupyter Notebook) **i** `projekt.pdf` (raport)  
+2. Dane:  
+   - `litery_czas.txt` **lub** `bodzce_czas.txt` (w zależności od wariantu)  
+   - `mrugniecia.txt`  
+3. Program użyty do prezentacji:  
+   - `wyswietlacz_liter.py` **lub** `bodzce.py`  
+
+---
+
+## 💡 Wskazówki
+
+- Do dopasowania czasów mrugnięć i bodźców można użyć funkcji łączenia danych według najbliższego czasu (np. pd.merge_asof()).  
+- Do wizualizacji wyników przydadzą się biblioteki: `matplotlib` lub `seaborn`.  
+- Raport powinien krótko opisywać przebieg pracy, zastosowane metody, uzyskane wyniki oraz wnioski (plik pdf).
 <hr>
 
 # Kryteria oceny z przedmiotu
