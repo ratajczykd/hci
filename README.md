@@ -102,10 +102,10 @@ Wysyłacie w jednej spakowanej paczce (`.zip`):
 
 1. `projekt.ipynb` (Jupyter Notebook) **i** `projekt.pdf` (raport)  
 2. Dane:  
-   - `litery_czas.txt` **lub** `bodzce_czas.txt` (w zależności od wariantu)  
+   - `litery_czas.txt`  
    - `mrugniecia.txt`  
 3. Program użyty do prezentacji:  
-   - `wyswietlacz_liter.py` **lub** `bodzce.py`  
+   - `wyswietlacz_liter.py` 
 
 ---
 
